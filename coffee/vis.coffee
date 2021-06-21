@@ -122,7 +122,8 @@ Network = () ->
   # variables to refect the current settings
   # of the visualization
   layout = "force"
-  filter = "all"
+  filter = "degree"
+  linkFilter = "positive"
   sort = "songs"
   # groupCenters will store our radial layout for
   # the group by artist layout.
@@ -130,8 +131,9 @@ Network = () ->
 
   # our force directed layout
   force = d3.layout.force()
+
   # color function used to color nodes
-  nodeColors = d3.scale.category20()
+  nodeColors = d3.scale.category10()
   # tooltip used to display details
   tooltip = Tooltip("vis-tooltip", 230)
 
@@ -155,7 +157,7 @@ Network = () ->
     force.size([width, height])
 
     setLayout("force")
-    setFilter("all")
+    setFilter("degree")
 
     # perform rendering and start force layout
     update()
@@ -170,6 +172,18 @@ Network = () ->
     # filter data to show based on current filter settings.
     curNodesData = filterNodes(allData.nodes)
     curLinksData = filterLinks(allData.links, curNodesData)
+
+
+    curNodesData.forEach (n) ->
+      # set initial x/y to values within the width/height
+      # of the visualization
+      n.x = randomnumber=Math.floor(Math.random()*width)
+      n.y = randomnumber=Math.floor(Math.random()*height)
+      # add radius to the node so we can use it later
+      if filter == "degree"
+        n.radius = 4 + n.degree_centrality*20
+      else if filter == "closeness"
+        n.radius = 4 + n.closeness_centrality*20
 
     # sort nodes based on current sort and update centers for
     # radial layout
@@ -212,6 +226,11 @@ Network = () ->
     setFilter(newFilter)
     update()
 
+  network.toggleLinkFilter = (newLinkFilter) ->
+    force.stop()
+    setLinkFilter(newLinkFilter)
+    update()
+
   # Public function to switch between sort options
   network.toggleSort = (newSort) ->
     force.stop()
@@ -226,13 +245,14 @@ Network = () ->
       element = d3.select(this)
       match = d.name.toLowerCase().search(searchRegEx)
       if searchTerm.length > 0 and match >= 0
-        element.style("fill", "#F38630")
+        element.style("fill", "#000000")
           .style("stroke-width", 2.0)
           .style("stroke", "#555")
+
         d.searched = true
       else
         d.searched = false
-        element.style("fill", (d) -> nodeColors(d.artist))
+        element.style("fill", (d) -> nodeColors(d.type))
           .style("stroke-width", 1.0)
 
   network.updateData = (newData) ->
@@ -246,7 +266,7 @@ Network = () ->
   # Returns modified data
   setupData = (data) ->
     # initialize circle radius scale
-    countExtent = d3.extent(data.nodes, (d) -> d.playcount)
+    countExtent = d3.extent(data.nodes, (d) -> 5)
     circleRadius = d3.scale.sqrt().range([3, 12]).domain(countExtent)
 
     data.nodes.forEach (n) ->
@@ -255,8 +275,19 @@ Network = () ->
       n.x = randomnumber=Math.floor(Math.random()*width)
       n.y = randomnumber=Math.floor(Math.random()*height)
       # add radius to the node so we can use it later
-      n.radius = circleRadius(n.playcount)
+      if filter == "degree"
+        n.radius = 1 + n.degree_centrality*20
+      else if filter == "closeness"
+        n.radius = 1 + n.closeness_centrality*20
 
+      if Number(n.born) < 476
+        n.type = "ancient"
+      else if Number(n.born) < 1400
+        n.type = "medieval"
+      else if Number(n.born) < 1850
+        n.type = "modern"
+      else
+        n.type = "contemporary"
     # id's -> node objects
     nodesMap  = mapNodes(data.nodes)
 
@@ -267,7 +298,6 @@ Network = () ->
 
       # linkedByIndex is used for link sorting
       linkedByIndex["#{l.source.id},#{l.target.id}"] = 1
-
     data
 
   # Helper function to map node id's to node objects.
@@ -351,7 +381,11 @@ Network = () ->
   filterLinks = (allLinks, curNodes) ->
     curNodes = mapNodes(curNodes)
     allLinks.filter (l) ->
-      curNodes.get(l.source.id) and curNodes.get(l.target.id)
+      if linkFilter == "positive"
+        curNodes.get(l.source.id) and curNodes.get(l.target.id) and l.weight >= 2
+      else if linkFilter == "negative"
+        curNodes.get(l.source.id) and curNodes.get(l.target.id) and l.weight <= -1
+
 
   # enter/exit display for nodes
   updateNodes = () ->
@@ -363,7 +397,7 @@ Network = () ->
       .attr("cx", (d) -> d.x)
       .attr("cy", (d) -> d.y)
       .attr("r", (d) -> d.radius)
-      .style("fill", (d) -> nodeColors(d.artist))
+      .style("fill", (d) -> nodeColors(d.type))
       .style("stroke", (d) -> strokeFor(d))
       .style("stroke-width", 1.0)
 
@@ -402,6 +436,10 @@ Network = () ->
   setFilter = (newFilter) ->
     filter = newFilter
 
+  # switches filter option to new filter
+  setLinkFilter = (newLinkFilter) ->
+    linkFilter = newLinkFilter
+
   # switches sort option to new sort
   setSort = (newSort) ->
     sort = newSort
@@ -436,7 +474,7 @@ Network = () ->
   moveToRadialLayout = (alpha) ->
     k = alpha * 0.1
     (d) ->
-      centerNode = groupCenters(d.artist)
+      centerNode = groupCenters(d.type)
       d.x += (centerNode.x - d.x) * k
       d.y += (centerNode.y - d.y) * k
 
@@ -444,13 +482,13 @@ Network = () ->
   # Helper function that returns stroke color for
   # particular node.
   strokeFor = (d) ->
-    d3.rgb(nodeColors(d.artist)).darker().toString()
+    d3.rgb(nodeColors(d.id)).darker().toString()
 
   # Mouseover tooltip function
   showDetails = (d,i) ->
     content = '<p class="main">' + d.name + '</span></p>'
     content += '<hr class="tooltip-hr">'
-    content += '<p class="main">' + d.artist + '</span></p>'
+    content += '<p class="main">' + d.type + '<br/>' + 'degree centrality: ' + d.degree_centrality.toString().substr(0,4) + '<br/>' + 'closeness centrality: ' + d.closeness_centrality.toString().substr(0,4) + '</span></p>'
     tooltip.showTooltip(content,d3.event)
 
     # higlight connected links
@@ -503,24 +541,29 @@ $ ->
     activate("layouts", newLayout)
     myNetwork.toggleLayout(newLayout)
 
-  d3.selectAll("#filters a").on "click", (d) ->
+  d3.selectAll("#scores a").on "click", (d) ->
     newFilter = d3.select(this).attr("id")
-    activate("filters", newFilter)
+    activate("scores", newFilter)
     myNetwork.toggleFilter(newFilter)
+
+  d3.selectAll("#linkfilters a").on "click", (d) ->
+    newLinkFilter = d3.select(this).attr("id")
+    activate("linkfilters", newLinkFilter)
+    myNetwork.toggleLinkFilter(newLinkFilter)
 
   d3.selectAll("#sorts a").on "click", (d) ->
     newSort = d3.select(this).attr("id")
     activate("sorts", newSort)
     myNetwork.toggleSort(newSort)
 
-  $("#song_select").on "change", (e) ->
-    songFile = $(this).val()
-    d3.json "data/#{songFile}", (json) ->
-      myNetwork.updateData(json)
+#  $("#song_select").on "change", (e) ->
+#    songFile = $(this).val()
+#    d3.json "data/#{songFile}", (json) ->
+#      myNetwork.updateData(json)
   
   $("#search").keyup () ->
     searchTerm = $(this).val()
     myNetwork.updateSearch(searchTerm)
 
-  d3.json "data/call_me_al.json", (json) ->
+  d3.json "data/philo-final.json", (json) ->
     myNetwork("#vis", json)

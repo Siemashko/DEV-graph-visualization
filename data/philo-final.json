@@ -1,0 +1,7399 @@
+{
+  "directed": false,
+  "multigraph": true,
+  "graph": {},
+  "nodes": [
+    {
+      "id": "Thales",
+      "name": "Thales",
+      "loc": "Miletus",
+      "sortby": "Thales",
+      "born": -624,
+      "died": -580,
+      "degree_centrality": 0.01694915254237288,
+      "closeness_centrality": 0.27314814814814814
+    },
+    {
+      "id": "Anaximander",
+      "name": "Anaximander",
+      "loc": "Miletus",
+      "sortby": "Anaximander",
+      "born": -610,
+      "died": -546,
+      "degree_centrality": 0.01694915254237288,
+      "closeness_centrality": 0.21572212065813529
+    },
+    {
+      "id": "Anaximenes",
+      "name": "Anaximenes",
+      "loc": "",
+      "sortby": "Anaximenes",
+      "born": -585,
+      "died": -528,
+      "degree_centrality": 0.00847457627118644,
+      "closeness_centrality": 0.17771084337349397
+    },
+    {
+      "id": "Pythagoras",
+      "name": "Pythagoras",
+      "loc": "Samos",
+      "sortby": "Pythagoras",
+      "born": -570,
+      "died": -497,
+      "degree_centrality": 0.01694915254237288,
+      "closeness_centrality": 0.3390804597701149
+    },
+    {
+      "id": "Xenophanes",
+      "name": "Xenophanes",
+      "loc": "Colophon",
+      "sortby": "Xenophanes",
+      "born": -570,
+      "died": -475,
+      "degree_centrality": 0.0423728813559322,
+      "closeness_centrality": 0.3722397476340694
+    },
+    {
+      "id": "Heraclitus",
+      "name": "Heraclitus",
+      "loc": "Ephesus",
+      "sortby": "Heraclitus",
+      "born": -535,
+      "died": -475,
+      "degree_centrality": 0.0423728813559322,
+      "closeness_centrality": 0.38562091503267976
+    },
+    {
+      "id": "Parmenides",
+      "name": "Parmenides",
+      "loc": "",
+      "sortby": "Parmenides",
+      "born": -515,
+      "died": -460,
+      "degree_centrality": 0.05084745762711865,
+      "closeness_centrality": 0.36990595611285265
+    },
+    {
+      "id": "Empedocles",
+      "name": "Empedocles",
+      "loc": "",
+      "sortby": "Empedocles",
+      "born": -490,
+      "died": -430,
+      "degree_centrality": 0.00847457627118644,
+      "closeness_centrality": 0.2706422018348624
+    },
+    {
+      "id": "Leucippus & Democritus",
+      "name": "Leucippus & Democritus",
+      "loc": "",
+      "sortby": "Leucippus & Democritus",
+      "born": -500,
+      "died": -401,
+      "degree_centrality": 0.03389830508474576,
+      "closeness_centrality": 0.35542168674698793
+    },
+    {
+      "id": "Zeno of Elea",
+      "name": "Zeno of Elea",
+      "loc": "",
+      "sortby": "Zeno of Elea",
+      "born": -490,
+      "died": -430,
+      "degree_centrality": 0.01694915254237288,
+      "closeness_centrality": 0.35435435435435436
+    },
+    {
+      "id": "Socrates",
+      "name": "Socrates",
+      "loc": "Athena",
+      "sortby": "Socrates",
+      "born": -470,
+      "died": -399,
+      "degree_centrality": 0.1016949152542373,
+      "closeness_centrality": 0.38562091503267976
+    },
+    {
+      "id": "Plato",
+      "name": "Plato",
+      "loc": "",
+      "sortby": "Plato",
+      "born": -427,
+      "died": -347,
+      "degree_centrality": 0.4491525423728814,
+      "closeness_centrality": 0.5108225108225108
+    },
+    {
+      "id": "Aristotle",
+      "name": "Aristotle",
+      "loc": "",
+      "sortby": "Aristotle",
+      "born": -384,
+      "died": -322,
+      "degree_centrality": 0.2542372881355932,
+      "closeness_centrality": 0.5042735042735043
+    },
+    {
+      "id": "Diogenes",
+      "name": "Diogenes",
+      "loc": "",
+      "sortby": "Diogenes",
+      "born": -404,
+      "died": -323,
+      "degree_centrality": 0.01694915254237288,
+      "closeness_centrality": 0.3232876712328767
+    },
+    {
+      "id": "Pyrrho",
+      "name": "Pyrrho",
+      "loc": "",
+      "sortby": "Pyrrho",
+      "born": -360,
+      "died": -270,
+      "degree_centrality": 0.05084745762711865,
+      "closeness_centrality": 0.39730639730639733
+    },
+    {
+      "id": "Epicurus",
+      "name": "Epicurus",
+      "loc": "",
+      "sortby": "Epicurus",
+      "born": -341,
+      "died": -270,
+      "degree_centrality": 0.1440677966101695,
+      "closeness_centrality": 0.4259927797833935
+    },
+    {
+      "id": "Stoics (Zeno of Citium et al)",
+      "name": "Stoics (Zeno of Citium et al)",
+      "loc": "Cyprus",
+      "sortby": "Stoics (Zeno of Citium et al)",
+      "born": -334,
+      "died": -262,
+      "degree_centrality": 0.0847457627118644,
+      "closeness_centrality": 0.4
+    },
+    {
+      "id": "Timon of Phlius",
+      "name": "Timon of Phlius",
+      "loc": "",
+      "sortby": "Timon of Phlius",
+      "born": -320,
+      "died": -230,
+      "degree_centrality": 0.025423728813559324,
+      "closeness_centrality": 0.36085626911314983
+    },
+    {
+      "id": "Plotinus",
+      "name": "Plotinus",
+      "loc": "Egyptian",
+      "sortby": "Plotinus",
+      "born": "204",
+      "died": "270",
+      "degree_centrality": 0.0423728813559322,
+      "closeness_centrality": 0.367601246105919
+    },
+    {
+      "id": "Saint Augustine",
+      "name": "Saint Augustine",
+      "loc": "Hippo (Algeria)",
+      "sortby": "Augustine, Saint",
+      "born": "354",
+      "died": "430",
+      "degree_centrality": 0.211864406779661,
+      "closeness_centrality": 0.4796747967479675
+    },
+    {
+      "id": "John Scotus Erigena",
+      "name": "John Scotus Erigena",
+      "loc": "",
+      "sortby": "Erigena, John Scotus",
+      "born": "815",
+      "died": "877",
+      "degree_centrality": 0.03389830508474576,
+      "closeness_centrality": 0.3769968051118211
+    },
+    {
+      "id": "Saint Anselm",
+      "name": "Saint Anselm",
+      "loc": "",
+      "sortby": "Anselm, Saint",
+      "born": "1033",
+      "died": "1109",
+      "degree_centrality": 0.03389830508474576,
+      "closeness_centrality": 0.39864864864864863
+    },
+    {
+      "id": "Thomas Aquinas",
+      "name": "Thomas Aquinas",
+      "loc": "",
+      "sortby": "Aquinas, Thomas",
+      "born": "1225",
+      "died": "1274",
+      "degree_centrality": 0.1440677966101695,
+      "closeness_centrality": 0.4645669291338583
+    },
+    {
+      "id": "William of Ockham",
+      "name": "William of Ockham",
+      "loc": "",
+      "sortby": "William of Ockham",
+      "born": "1287",
+      "died": "1347",
+      "degree_centrality": 0.13559322033898305,
+      "closeness_centrality": 0.44528301886792454
+    },
+    {
+      "id": "Francis Bacon",
+      "name": "Francis Bacon",
+      "loc": "",
+      "sortby": "Bacon, Francis",
+      "born": "1561",
+      "died": "1626",
+      "degree_centrality": 0.06779661016949153,
+      "closeness_centrality": 0.4125874125874126
+    },
+    {
+      "id": "Thomas Hobbes",
+      "name": "Thomas Hobbes",
+      "loc": "",
+      "sortby": "Hobbes, Thomas",
+      "born": "1588",
+      "died": "1679",
+      "degree_centrality": 0.2796610169491525,
+      "closeness_centrality": 0.4957983193277311
+    },
+    {
+      "id": "Ren\u00e9 Descartes",
+      "name": "Ren\u00e9 Descartes",
+      "loc": "",
+      "sortby": "Descartes, Ren\u00e9",
+      "born": "1596",
+      "died": "1650",
+      "degree_centrality": 0.3050847457627119,
+      "closeness_centrality": 0.502127659574468
+    },
+    {
+      "id": "Benedict Spinoza",
+      "name": "Benedict Spinoza",
+      "loc": "",
+      "sortby": "Spinoza, Benedict",
+      "born": "1632",
+      "died": "1677",
+      "degree_centrality": 0.3474576271186441,
+      "closeness_centrality": 0.5291479820627802
+    },
+    {
+      "id": "John Locke",
+      "name": "John Locke",
+      "loc": "",
+      "sortby": "Locke, John",
+      "born": "1632",
+      "died": "1704",
+      "degree_centrality": 0.3728813559322034,
+      "closeness_centrality": 0.5108225108225108
+    },
+    {
+      "id": "Anne Conway",
+      "name": "Anne Conway",
+      "loc": "",
+      "sortby": "Conway, Anne",
+      "born": "1631",
+      "died": "1679",
+      "degree_centrality": 0.1694915254237288,
+      "closeness_centrality": 0.44029850746268656
+    },
+    {
+      "id": "Gottfried Wilhelm Leibniz",
+      "name": "Gottfried Wilhelm Leibniz",
+      "loc": "",
+      "sortby": "Leibniz, Gottfried Wilhelm",
+      "born": "1646",
+      "died": "1716",
+      "degree_centrality": 0.22033898305084745,
+      "closeness_centrality": 0.48360655737704916
+    },
+    {
+      "id": "George Berkeley",
+      "name": "George Berkeley",
+      "loc": "",
+      "sortby": "Berkeley, George",
+      "born": "1685",
+      "died": "1753",
+      "degree_centrality": 0.11016949152542373,
+      "closeness_centrality": 0.41114982578397213
+    },
+    {
+      "id": "Francis Hutcheson",
+      "name": "Francis Hutcheson",
+      "loc": "",
+      "sortby": "Hutcheson, Francis",
+      "born": "1694",
+      "died": "1746",
+      "degree_centrality": 0.11016949152542373,
+      "closeness_centrality": 0.4306569343065693
+    },
+    {
+      "id": "David Hume",
+      "name": "David Hume",
+      "loc": "",
+      "sortby": "Hume, David",
+      "born": "1711",
+      "died": "1776",
+      "degree_centrality": 0.3220338983050847,
+      "closeness_centrality": 0.5244444444444445
+    },
+    {
+      "id": "Jean-Jacques Rousseau",
+      "name": "Jean-Jacques Rousseau",
+      "loc": "",
+      "sortby": "Rousseau, Jean-Jacques",
+      "born": "1712",
+      "died": "1778",
+      "degree_centrality": 0.17796610169491525,
+      "closeness_centrality": 0.45038167938931295
+    },
+    {
+      "id": "Edmund Burke",
+      "name": "Edmund Burke",
+      "loc": "",
+      "sortby": "Burke, Edmund",
+      "born": "1729",
+      "died": "1797",
+      "degree_centrality": 0.09322033898305085,
+      "closeness_centrality": 0.41114982578397213
+    },
+    {
+      "id": "Immanuel Kant",
+      "name": "Immanuel Kant",
+      "loc": "",
+      "sortby": "Kant, Immanuel",
+      "born": "1724",
+      "died": "1804",
+      "degree_centrality": 0.4491525423728814,
+      "closeness_centrality": 0.5488372093023256
+    },
+    {
+      "id": "Jeremy Bentham",
+      "name": "Jeremy Bentham",
+      "loc": "",
+      "sortby": "Bentham, Jeremy",
+      "born": "1748",
+      "died": "1832",
+      "degree_centrality": 0.07627118644067797,
+      "closeness_centrality": 0.4229390681003584
+    },
+    {
+      "id": "Mary Wollstonecraft",
+      "name": "Mary Wollstonecraft",
+      "loc": "",
+      "sortby": "Wollstonecraft, Mary",
+      "born": "1759",
+      "died": "1797",
+      "degree_centrality": 0.09322033898305085,
+      "closeness_centrality": 0.4013605442176871
+    },
+    {
+      "id": "Johann Gottlieb Fichte",
+      "name": "Johann Gottlieb Fichte",
+      "loc": "",
+      "sortby": "Fichte, Johann Gottlieb",
+      "born": "1762",
+      "died": "1814",
+      "degree_centrality": 0.11016949152542373,
+      "closeness_centrality": 0.44360902255639095
+    },
+    {
+      "id": "Friedrich Schelling",
+      "name": "Friedrich Schelling",
+      "loc": "",
+      "sortby": "Schelling, Friedrich",
+      "born": "1775",
+      "died": "1854",
+      "degree_centrality": 0.1271186440677966,
+      "closeness_centrality": 0.43223443223443225
+    },
+    {
+      "id": "Georg Wilhelm Friedrich Hegel",
+      "name": "Georg Wilhelm Friedrich Hegel",
+      "loc": "",
+      "sortby": "Hegel, Georg Wilhelm Friedrich",
+      "born": "1770",
+      "died": "1831",
+      "degree_centrality": 0.3220338983050847,
+      "closeness_centrality": 0.4738955823293173
+    },
+    {
+      "id": "Arthur Schopenhauer",
+      "name": "Arthur Schopenhauer",
+      "loc": "",
+      "sortby": "Schopenhauer, Arthur",
+      "born": "1788",
+      "died": "1860",
+      "degree_centrality": 0.2627118644067797,
+      "closeness_centrality": 0.4816326530612245
+    },
+    {
+      "id": "Ludwig Feuerbach",
+      "name": "Ludwig Feuerbach",
+      "loc": "",
+      "sortby": "Feuerbach, Ludwig",
+      "born": "1804",
+      "died": "1872",
+      "degree_centrality": 0.1440677966101695,
+      "closeness_centrality": 0.4306569343065693
+    },
+    {
+      "id": "John Stuart Mill",
+      "name": "John Stuart Mill",
+      "loc": "",
+      "sortby": "Mill, John Stuart",
+      "born": "1806",
+      "died": "1873",
+      "degree_centrality": 0.17796610169491525,
+      "closeness_centrality": 0.4738955823293173
+    },
+    {
+      "id": "Charles Darwin",
+      "name": "Charles Darwin",
+      "loc": "",
+      "sortby": "Darwin, Charles",
+      "born": "1809",
+      "died": "1882",
+      "degree_centrality": 0.2033898305084746,
+      "closeness_centrality": 0.47580645161290325
+    },
+    {
+      "id": "S\u00f8ren Kierkegaard",
+      "name": "S\u00f8ren Kierkegaard",
+      "loc": "",
+      "sortby": "Kierkegaard, S\u00f8ren",
+      "born": "1813",
+      "died": "1855",
+      "degree_centrality": 0.13559322033898305,
+      "closeness_centrality": 0.41114982578397213
+    },
+    {
+      "id": "Karl Marx",
+      "name": "Karl Marx",
+      "loc": "",
+      "sortby": "Marx, Karl",
+      "born": "1818",
+      "died": "1883",
+      "degree_centrality": 0.2627118644067797,
+      "closeness_centrality": 0.4290909090909091
+    },
+    {
+      "id": "Charles Sanders Peirce",
+      "name": "Charles Sanders Peirce",
+      "loc": "",
+      "sortby": "Peirce, Charles Sanders",
+      "born": "1839",
+      "died": "1914",
+      "degree_centrality": 0.1694915254237288,
+      "closeness_centrality": 0.4419475655430712
+    },
+    {
+      "id": "William James",
+      "name": "William James",
+      "loc": "",
+      "sortby": "James, William",
+      "born": "1842",
+      "died": "1910",
+      "degree_centrality": 0.025423728813559324,
+      "closeness_centrality": 0.36875
+    },
+    {
+      "id": "Friedrich Nietzsche",
+      "name": "Friedrich Nietzsche",
+      "loc": "",
+      "sortby": "Nietzsche, Friedrich",
+      "born": "1844",
+      "died": "1900",
+      "degree_centrality": 0.2288135593220339,
+      "closeness_centrality": 0.43223443223443225
+    },
+    {
+      "id": "Gottlob Frege",
+      "name": "Gottlob Frege",
+      "loc": "",
+      "sortby": "Frege, Gottlob",
+      "born": "1848",
+      "died": "1925",
+      "degree_centrality": 0.06779661016949153,
+      "closeness_centrality": 0.3933333333333333
+    },
+    {
+      "id": "Sigmund Freud",
+      "name": "Sigmund Freud",
+      "loc": "",
+      "sortby": "Freud, Sigmund",
+      "born": "1856",
+      "died": "1939",
+      "degree_centrality": 0.3728813559322034,
+      "closeness_centrality": 0.5130434782608696
+    },
+    {
+      "id": "Ferdinand de Saussure",
+      "name": "Ferdinand de Saussure",
+      "loc": "",
+      "sortby": "Saussure, Ferdinand de",
+      "born": "1857",
+      "died": "1913",
+      "degree_centrality": 0.2288135593220339,
+      "closeness_centrality": 0.4645669291338583
+    },
+    {
+      "id": "Edmund Husserl",
+      "name": "Edmund Husserl",
+      "loc": "",
+      "sortby": "Husserl, Edmund",
+      "born": "1859",
+      "died": "1938",
+      "degree_centrality": 0.07627118644067797,
+      "closeness_centrality": 0.4068965517241379
+    },
+    {
+      "id": "Henri Bergson",
+      "name": "Henri Bergson",
+      "loc": "",
+      "sortby": "Bergson, Henri",
+      "born": "1859",
+      "died": "1941",
+      "degree_centrality": 0.13559322033898305,
+      "closeness_centrality": 0.4573643410852713
+    },
+    {
+      "id": "John Dewey",
+      "name": "John Dewey",
+      "loc": "",
+      "sortby": "Dewey, John",
+      "born": "1859",
+      "died": "1952",
+      "degree_centrality": 0.16101694915254236,
+      "closeness_centrality": 0.43866171003717475
+    },
+    {
+      "id": "Pierre Duhem",
+      "name": "Pierre Duhem",
+      "loc": "",
+      "sortby": "Duhem, Pierre",
+      "born": "1861",
+      "died": "1916",
+      "degree_centrality": 0.059322033898305086,
+      "closeness_centrality": 0.3959731543624161
+    },
+    {
+      "id": "Bertrand Russell",
+      "name": "Bertrand Russell",
+      "loc": "",
+      "sortby": "Russell, Bertrand",
+      "born": "1872",
+      "died": "1970",
+      "degree_centrality": 0.1694915254237288,
+      "closeness_centrality": 0.4609375
+    },
+    {
+      "id": "George Edward Moore",
+      "name": "George Edward Moore",
+      "loc": "",
+      "sortby": "Moore, George Edward",
+      "born": "1873",
+      "died": "1958",
+      "degree_centrality": 0.0847457627118644,
+      "closeness_centrality": 0.4154929577464789
+    },
+    {
+      "id": "Ludwig Wittgenstein",
+      "name": "Ludwig Wittgenstein",
+      "loc": "",
+      "sortby": "Wittgenstein, Ludwig",
+      "born": "1889",
+      "died": "1951",
+      "degree_centrality": 0.3898305084745763,
+      "closeness_centrality": 0.49166666666666664
+    },
+    {
+      "id": "Martin Heidegger",
+      "name": "Martin Heidegger",
+      "loc": "",
+      "sortby": "Heidegger, Martin",
+      "born": "1889",
+      "died": "1976",
+      "degree_centrality": 0.15254237288135594,
+      "closeness_centrality": 0.42142857142857143
+    },
+    {
+      "id": "Georges Bataille",
+      "name": "Georges Bataille",
+      "loc": "",
+      "sortby": "Bataille, Georges",
+      "born": "1897",
+      "died": "1962",
+      "degree_centrality": 0.1271186440677966,
+      "closeness_centrality": 0.40273037542662116
+    },
+    {
+      "id": "Rudolf Carnap",
+      "name": "Rudolf Carnap",
+      "loc": "",
+      "sortby": "Carnap, Rudolf",
+      "born": "1891",
+      "died": "1970",
+      "degree_centrality": 0.11016949152542373,
+      "closeness_centrality": 0.4083044982698962
+    },
+    {
+      "id": "Carl Hempel",
+      "name": "Carl Hempel",
+      "loc": "",
+      "sortby": "Hempel, Carl",
+      "born": "1905",
+      "died": "1997",
+      "degree_centrality": 0.07627118644067797,
+      "closeness_centrality": 0.36990595611285265
+    },
+    {
+      "id": "Karl Popper",
+      "name": "Karl Popper",
+      "loc": "",
+      "sortby": "Popper, Karl",
+      "born": "1902",
+      "died": "1994",
+      "degree_centrality": 0.2033898305084746,
+      "closeness_centrality": 0.466403162055336
+    },
+    {
+      "id": "Gilbert Ryle",
+      "name": "Gilbert Ryle",
+      "loc": "",
+      "sortby": "Ryle, Gilbert",
+      "born": "1900",
+      "died": "1976",
+      "degree_centrality": 0.1694915254237288,
+      "closeness_centrality": 0.4419475655430712
+    },
+    {
+      "id": "Frank Ramsey",
+      "name": "Frank Ramsey",
+      "loc": "",
+      "sortby": "Ramsey, Frank",
+      "born": "1903",
+      "died": "1930",
+      "degree_centrality": 0.00847457627118644,
+      "closeness_centrality": 0.2706422018348624
+    },
+    {
+      "id": "Jacques Lacan",
+      "name": "Jacques Lacan",
+      "loc": "",
+      "sortby": "Lacan, Jacques",
+      "born": "1901",
+      "died": "1981",
+      "degree_centrality": 0.22033898305084745,
+      "closeness_centrality": 0.4338235294117647
+    },
+    {
+      "id": "Theodor Adorno",
+      "name": "Theodor Adorno",
+      "loc": "",
+      "sortby": "Adorno, Theodor",
+      "born": "1903",
+      "died": "1969",
+      "degree_centrality": 0.3389830508474576,
+      "closeness_centrality": 0.466403162055336
+    },
+    {
+      "id": "Hannah Arendt",
+      "name": "Hannah Arendt",
+      "loc": "",
+      "sortby": "Arendt, Hannah",
+      "born": "1906",
+      "died": "1975",
+      "degree_centrality": 0.1864406779661017,
+      "closeness_centrality": 0.46825396825396826
+    },
+    {
+      "id": "Jean-Paul Sartre",
+      "name": "Jean-Paul Sartre",
+      "loc": "",
+      "sortby": "Sartre, Jean-Paul",
+      "born": "1905",
+      "died": "1980",
+      "degree_centrality": 0.17796610169491525,
+      "closeness_centrality": 0.37942122186495175
+    },
+    {
+      "id": "Simone de Beauvoir",
+      "name": "Simone de Beauvoir",
+      "loc": "",
+      "sortby": "de Beauvoir, Simone",
+      "born": "1908",
+      "died": "1986",
+      "degree_centrality": 0.1864406779661017,
+      "closeness_centrality": 0.4169611307420495
+    },
+    {
+      "id": "Albert Camus",
+      "name": "Albert Camus",
+      "loc": "",
+      "sortby": "Camus, Albert",
+      "born": "1913",
+      "died": "1960",
+      "degree_centrality": 0.059322033898305086,
+      "closeness_centrality": 0.3575757575757576
+    },
+    {
+      "id": "Maurice Merleau-Ponty",
+      "name": "Maurice Merleau-Ponty",
+      "loc": "",
+      "sortby": "Merleau-Ponty, Maurice",
+      "born": "1908",
+      "died": "1961",
+      "degree_centrality": 0.0423728813559322,
+      "closeness_centrality": 0.39072847682119205
+    },
+    {
+      "id": "Alfred Jules Ayer",
+      "name": "Alfred Jules Ayer",
+      "loc": "",
+      "sortby": "Ayer, Alfred Jules",
+      "born": "1910",
+      "died": "1989",
+      "degree_centrality": 0.11016949152542373,
+      "closeness_centrality": 0.4419475655430712
+    },
+    {
+      "id": "John Langshaw Austin",
+      "name": "John Langshaw Austin",
+      "loc": "",
+      "sortby": "Austin, John Langshaw",
+      "born": "1911",
+      "died": "1960",
+      "degree_centrality": 0.22033898305084745,
+      "closeness_centrality": 0.4354243542435424
+    },
+    {
+      "id": "Willard Van Orman Quine",
+      "name": "Willard Van Orman Quine",
+      "loc": "",
+      "sortby": "Quine, Willard Van Orman",
+      "born": "1908",
+      "died": "2000",
+      "degree_centrality": 0.211864406779661,
+      "closeness_centrality": 0.4591439688715953
+    },
+    {
+      "id": "William Frankena",
+      "name": "William Frankena",
+      "loc": "",
+      "sortby": "Frankena, William",
+      "born": "1908",
+      "died": "1994",
+      "degree_centrality": 0.0423728813559322,
+      "closeness_centrality": 0.39864864864864863
+    },
+    {
+      "id": "Wilfred Sellars",
+      "name": "Wilfred Sellars",
+      "loc": "",
+      "sortby": "Sellars, Wilfred",
+      "born": "1912",
+      "died": "1989",
+      "degree_centrality": 0.11864406779661017,
+      "closeness_centrality": 0.41843971631205673
+    },
+    {
+      "id": "Sir Peter Strawson",
+      "name": "Sir Peter Strawson",
+      "loc": "",
+      "sortby": "Strawson, Sir Peter",
+      "born": "1919",
+      "died": "2006",
+      "degree_centrality": 0.13559322033898305,
+      "closeness_centrality": 0.44360902255639095
+    },
+    {
+      "id": "Paul Grice",
+      "name": "Paul Grice",
+      "loc": "",
+      "sortby": "Grice, Paul",
+      "born": "1913",
+      "died": "1988",
+      "degree_centrality": 0.0423728813559322,
+      "closeness_centrality": 0.3480825958702065
+    },
+    {
+      "id": "Elizabeth Anscombe",
+      "name": "Elizabeth Anscombe",
+      "loc": "",
+      "sortby": "Anscombe, Elizabeth",
+      "born": "1919",
+      "died": "2001",
+      "degree_centrality": 0.1016949152542373,
+      "closeness_centrality": 0.39730639730639733
+    },
+    {
+      "id": "Peter Winch",
+      "name": "Peter Winch",
+      "loc": "",
+      "sortby": "Winch, Peter",
+      "born": "1926",
+      "died": "1997",
+      "degree_centrality": 0.059322033898305086,
+      "closeness_centrality": 0.3818770226537217
+    },
+    {
+      "id": "Donald Davidson",
+      "name": "Donald Davidson",
+      "loc": "",
+      "sortby": "Davidson, Donald",
+      "born": "1917",
+      "died": "2003",
+      "degree_centrality": 0.17796610169491525,
+      "closeness_centrality": 0.45384615384615384
+    },
+    {
+      "id": "Abraham Irving Melden",
+      "name": "Abraham Irving Melden",
+      "loc": "",
+      "sortby": "Melden, Abraham Irving",
+      "born": "1910",
+      "died": "1991",
+      "degree_centrality": 0.025423728813559324,
+      "closeness_centrality": 0.3630769230769231
+    },
+    {
+      "id": "John Mackie",
+      "name": "John Mackie",
+      "loc": "",
+      "sortby": "Mackie, John",
+      "born": "1917",
+      "died": "1981",
+      "degree_centrality": 0.059322033898305086,
+      "closeness_centrality": 0.3818770226537217
+    },
+    {
+      "id": "Richard Hare",
+      "name": "Richard Hare",
+      "loc": "",
+      "sortby": "Hare, Richard",
+      "born": "1919",
+      "died": "2002",
+      "degree_centrality": 0.1271186440677966,
+      "closeness_centrality": 0.44696969696969696
+    },
+    {
+      "id": "Philippa Foot",
+      "name": "Philippa Foot",
+      "loc": "",
+      "sortby": "Foot, Philippa",
+      "born": "1920",
+      "died": "2010",
+      "degree_centrality": 0.01694915254237288,
+      "closeness_centrality": 0.30971128608923887
+    },
+    {
+      "id": "John Rawls",
+      "name": "John Rawls",
+      "loc": "",
+      "sortby": "Rawls, John",
+      "born": "1921",
+      "died": "2002",
+      "degree_centrality": 0.1271186440677966,
+      "closeness_centrality": 0.4259927797833935
+    },
+    {
+      "id": "Thomas Kuhn",
+      "name": "Thomas Kuhn",
+      "loc": "",
+      "sortby": "Kuhn, Thomas",
+      "born": "1922",
+      "died": "1996",
+      "degree_centrality": 0.1694915254237288,
+      "closeness_centrality": 0.42142857142857143
+    },
+    {
+      "id": "Paul Feyerabend",
+      "name": "Paul Feyerabend",
+      "loc": "",
+      "sortby": "Feyerabend, Paul",
+      "born": "1924",
+      "died": "1994",
+      "degree_centrality": 0.05084745762711865,
+      "closeness_centrality": 0.36990595611285265
+    },
+    {
+      "id": "Michel Foucault",
+      "name": "Michel Foucault",
+      "loc": "",
+      "sortby": "Foucault, Michel",
+      "born": "1926",
+      "died": "1984",
+      "degree_centrality": 0.2033898305084746,
+      "closeness_centrality": 0.4083044982698962
+    },
+    {
+      "id": "Jean-Fran\u00e7ois Lyotard",
+      "name": "Jean-Fran\u00e7ois Lyotard",
+      "loc": "",
+      "sortby": "Lyotard, Jean-Fran\u00e7ois",
+      "born": "1924",
+      "died": "1998",
+      "degree_centrality": 0.1864406779661017,
+      "closeness_centrality": 0.4573643410852713
+    },
+    {
+      "id": "Michael Dummett",
+      "name": "Michael Dummett",
+      "loc": "",
+      "sortby": "Dummett, Michael",
+      "born": "1925",
+      "died": "2011",
+      "degree_centrality": 0.09322033898305085,
+      "closeness_centrality": 0.39072847682119205
+    },
+    {
+      "id": "Hilary Putnam",
+      "name": "Hilary Putnam",
+      "loc": "",
+      "sortby": "Putnam, Hilary",
+      "born": "1926",
+      "died": "2016",
+      "degree_centrality": 0.17796610169491525,
+      "closeness_centrality": 0.44866920152091255
+    },
+    {
+      "id": "Bernard Williams",
+      "name": "Bernard Williams",
+      "loc": "",
+      "sortby": "Williams, Bernard",
+      "born": "1929",
+      "died": "2003",
+      "degree_centrality": 0.1271186440677966,
+      "closeness_centrality": 0.44029850746268656
+    },
+    {
+      "id": "Jean Baudrillard",
+      "name": "Jean Baudrillard",
+      "loc": "",
+      "sortby": "Baudrillard, Jean",
+      "born": "1929",
+      "died": "2007",
+      "degree_centrality": 0.17796610169491525,
+      "closeness_centrality": 0.4199288256227758
+    },
+    {
+      "id": "Harry Frankfurt",
+      "name": "Harry Frankfurt",
+      "loc": "",
+      "sortby": "Frankfurt, Harry",
+      "born": "1929",
+      "died": null,
+      "degree_centrality": 0.00847457627118644,
+      "closeness_centrality": 0.35542168674698793
+    },
+    {
+      "id": "Jacques Derrida",
+      "name": "Jacques Derrida",
+      "loc": "",
+      "sortby": "Derrida, Jacques",
+      "born": "1930",
+      "died": "2004",
+      "degree_centrality": 0.1016949152542373,
+      "closeness_centrality": 0.3881578947368421
+    },
+    {
+      "id": "Richard Rorty",
+      "name": "Richard Rorty",
+      "loc": "",
+      "sortby": "Rorty, Richard",
+      "born": "1931",
+      "died": "2007",
+      "degree_centrality": 0.11864406779661017,
+      "closeness_centrality": 0.4154929577464789
+    },
+    {
+      "id": "Luce Irigaray",
+      "name": "Luce Irigaray",
+      "loc": "",
+      "sortby": "Irigaray, Luce",
+      "born": "1932",
+      "died": null,
+      "degree_centrality": 0.1864406779661017,
+      "closeness_centrality": 0.41114982578397213
+    },
+    {
+      "id": "John Searle",
+      "name": "John Searle",
+      "loc": "",
+      "sortby": "Searle, John",
+      "born": "1932",
+      "died": null,
+      "degree_centrality": 0.1440677966101695,
+      "closeness_centrality": 0.41843971631205673
+    },
+    {
+      "id": "Jerry Fodor",
+      "name": "Jerry Fodor",
+      "loc": "",
+      "sortby": "Fodor, Jerry",
+      "born": "1935",
+      "died": "2017",
+      "degree_centrality": 0.0847457627118644,
+      "closeness_centrality": 0.4
+    },
+    {
+      "id": "Thomas Nagel",
+      "name": "Thomas Nagel",
+      "loc": "",
+      "sortby": "Nagel, Thomas",
+      "born": "1937",
+      "died": null,
+      "degree_centrality": 0.06779661016949153,
+      "closeness_centrality": 0.4097222222222222
+    },
+    {
+      "id": "Sandra Harding",
+      "name": "Sandra Harding",
+      "loc": "",
+      "sortby": "Harding, Sandra",
+      "born": "1935",
+      "died": null,
+      "degree_centrality": 0.025423728813559324,
+      "closeness_centrality": 0.3522388059701492
+    },
+    {
+      "id": "Carol Gilligan",
+      "name": "Carol Gilligan",
+      "loc": "",
+      "sortby": "Gilligan, Carol",
+      "born": "1936",
+      "died": null,
+      "degree_centrality": 0.025423728813559324,
+      "closeness_centrality": 0.3630769230769231
+    },
+    {
+      "id": "Robert Nozick",
+      "name": "Robert Nozick",
+      "loc": "",
+      "sortby": "Nozick, Robert",
+      "born": "1938",
+      "died": "2002",
+      "degree_centrality": 0.07627118644067797,
+      "closeness_centrality": 0.39730639730639733
+    },
+    {
+      "id": "Saul Kripke",
+      "name": "Saul Kripke",
+      "loc": "",
+      "sortby": "Kripke, Saul",
+      "born": "1940",
+      "died": null,
+      "degree_centrality": 0.07627118644067797,
+      "closeness_centrality": 0.3920265780730897
+    },
+    {
+      "id": "Frank Jackson",
+      "name": "Frank Jackson",
+      "loc": "",
+      "sortby": "Jackson, Frank",
+      "born": "1943",
+      "died": null,
+      "degree_centrality": 0.05084745762711865,
+      "closeness_centrality": 0.36645962732919257
+    },
+    {
+      "id": "David Lewis",
+      "name": "David Lewis",
+      "loc": "",
+      "sortby": "Lewis, David",
+      "born": "1941",
+      "died": "2001",
+      "degree_centrality": 0.11016949152542373,
+      "closeness_centrality": 0.427536231884058
+    },
+    {
+      "id": "John McDowell",
+      "name": "John McDowell",
+      "loc": "",
+      "sortby": "McDowell, John",
+      "born": "1942",
+      "died": null,
+      "degree_centrality": 0.0847457627118644,
+      "closeness_centrality": 0.4125874125874126
+    },
+    {
+      "id": "Richard Boyd",
+      "name": "Richard Boyd",
+      "loc": "",
+      "sortby": "Boyd, Richard",
+      "born": "1942",
+      "died": null,
+      "degree_centrality": 0.0423728813559322,
+      "closeness_centrality": 0.38436482084690554
+    },
+    {
+      "id": "Tim Scanlon",
+      "name": "Tim Scanlon",
+      "loc": "",
+      "sortby": "Scanlon, Tim",
+      "born": "1940",
+      "died": null,
+      "degree_centrality": 0.0847457627118644,
+      "closeness_centrality": 0.3532934131736527
+    },
+    {
+      "id": "Richard Dawkins",
+      "name": "Richard Dawkins",
+      "loc": "",
+      "sortby": "Dawkins, Richard",
+      "born": "1941",
+      "died": null,
+      "degree_centrality": 0.07627118644067797,
+      "closeness_centrality": 0.38943894389438943
+    },
+    {
+      "id": "Daniel Dennett",
+      "name": "Daniel Dennett",
+      "loc": "",
+      "sortby": "Dennett, Daniel",
+      "born": "1942",
+      "died": null,
+      "degree_centrality": 0.4152542372881356,
+      "closeness_centrality": 0.5130434782608696
+    },
+    {
+      "id": "Simon Blackburn",
+      "name": "Simon Blackburn",
+      "loc": "",
+      "sortby": "Blackburn, Simon",
+      "born": "1944",
+      "died": null,
+      "degree_centrality": 0.025423728813559324,
+      "closeness_centrality": 0.3564954682779456
+    },
+    {
+      "id": "Judith Butler",
+      "name": "Judith Butler",
+      "loc": "",
+      "sortby": "Butler, Judith",
+      "born": "1956",
+      "died": null,
+      "degree_centrality": 0.16101694915254236,
+      "closeness_centrality": 0.40273037542662116
+    },
+    {
+      "id": "David Chalmers",
+      "name": "David Chalmers",
+      "loc": "",
+      "sortby": "Chalmers, David",
+      "born": "1966",
+      "died": null,
+      "degree_centrality": 0.22033898305084745,
+      "closeness_centrality": 0.44360902255639095
+    }
+  ],
+  "links": [
+    {
+      "source": "Thales",
+      "target": "Anaximander",
+      "weight": -1
+    },
+    {
+      "source": "Thales",
+      "target": "Parmenides",
+      "weight": 1
+    },
+    {
+      "source": "Anaximander",
+      "target": "Thales",
+      "weight": -1
+    },
+    {
+      "source": "Anaximander",
+      "target": "Anaximenes",
+      "weight": -1
+    },
+    {
+      "source": "Parmenides",
+      "target": "Thales",
+      "weight": 1
+    },
+    {
+      "source": "Parmenides",
+      "target": "Heraclitus",
+      "weight": -1
+    },
+    {
+      "source": "Parmenides",
+      "target": "Empedocles",
+      "weight": -1
+    },
+    {
+      "source": "Parmenides",
+      "target": "Leucippus & Democritus",
+      "weight": -1
+    },
+    {
+      "source": "Parmenides",
+      "target": "Benedict Spinoza",
+      "weight": 1
+    },
+    {
+      "source": "Parmenides",
+      "target": "Friedrich Schelling",
+      "weight": -1
+    },
+    {
+      "source": "Anaximenes",
+      "target": "Anaximander",
+      "weight": -1
+    },
+    {
+      "source": "Heraclitus",
+      "target": "Parmenides",
+      "weight": -1
+    },
+    {
+      "source": "Heraclitus",
+      "target": "Plato",
+      "weight": 1
+    },
+    {
+      "source": "Heraclitus",
+      "target": "Friedrich Schelling",
+      "weight": 1
+    },
+    {
+      "source": "Heraclitus",
+      "target": "Georg Wilhelm Friedrich Hegel",
+      "weight": 1
+    },
+    {
+      "source": "Heraclitus",
+      "target": "Charles Darwin",
+      "weight": 1
+    },
+    {
+      "source": "Empedocles",
+      "target": "Parmenides",
+      "weight": -1
+    },
+    {
+      "source": "Leucippus & Democritus",
+      "target": "Parmenides",
+      "weight": -1
+    },
+    {
+      "source": "Leucippus & Democritus",
+      "target": "Aristotle",
+      "weight": 1
+    },
+    {
+      "source": "Leucippus & Democritus",
+      "target": "Epicurus",
+      "weight": 2
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Parmenides",
+      "weight": 1
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Plato",
+      "weight": -1
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Epicurus",
+      "weight": 1
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Stoics (Zeno of Citium et al)",
+      "weight": 3
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Saint Augustine",
+      "weight": -1
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "John Scotus Erigena",
+      "weight": 1
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Thomas Aquinas",
+      "weight": 1
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "William of Ockham",
+      "weight": 1
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Thomas Hobbes",
+      "weight": 2
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Ren\u00e9 Descartes",
+      "weight": 0
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "John Locke",
+      "weight": 2
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Anne Conway",
+      "weight": -1
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Gottfried Wilhelm Leibniz",
+      "weight": -1
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Immanuel Kant",
+      "weight": -1
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Jeremy Bentham",
+      "weight": 1
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Friedrich Schelling",
+      "weight": 0
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Georg Wilhelm Friedrich Hegel",
+      "weight": 1
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Arthur Schopenhauer",
+      "weight": 3
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Ludwig Feuerbach",
+      "weight": -1
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "John Stuart Mill",
+      "weight": 1
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Sigmund Freud",
+      "weight": 1
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Henri Bergson",
+      "weight": -1
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Hannah Arendt",
+      "weight": 1
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Donald Davidson",
+      "weight": 1
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "Abraham Irving Melden",
+      "weight": -1
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "David Lewis",
+      "weight": 1
+    },
+    {
+      "source": "Benedict Spinoza",
+      "target": "David Chalmers",
+      "weight": 1
+    },
+    {
+      "source": "Friedrich Schelling",
+      "target": "Parmenides",
+      "weight": -1
+    },
+    {
+      "source": "Friedrich Schelling",
+      "target": "Heraclitus",
+      "weight": 1
+    },
+    {
+      "source": "Friedrich Schelling",
+      "target": "Plato",
+      "weight": -1
+    },
+    {
+      "source": "Friedrich Schelling",
+      "target": "Thomas Hobbes",
+      "weight": 1
+    },
+    {
+      "source": "Friedrich Schelling",
+      "target": "Benedict Spinoza",
+      "weight": 0
+    },
+    {
+      "source": "Friedrich Schelling",
+      "target": "Anne Conway",
+      "weight": -1
+    },
+    {
+      "source": "Friedrich Schelling",
+      "target": "Johann Gottlieb Fichte",
+      "weight": -1
+    },
+    {
+      "source": "Friedrich Schelling",
+      "target": "Georg Wilhelm Friedrich Hegel",
+      "weight": 1
+    },
+    {
+      "source": "Friedrich Schelling",
+      "target": "Charles Darwin",
+      "weight": 2
+    },
+    {
+      "source": "Friedrich Schelling",
+      "target": "Henri Bergson",
+      "weight": 1
+    },
+    {
+      "source": "Friedrich Schelling",
+      "target": "Daniel Dennett",
+      "weight": 1
+    },
+    {
+      "source": "Plato",
+      "target": "Heraclitus",
+      "weight": 1
+    },
+    {
+      "source": "Plato",
+      "target": "Socrates",
+      "weight": 3
+    },
+    {
+      "source": "Plato",
+      "target": "Pythagoras",
+      "weight": 2
+    },
+    {
+      "source": "Plato",
+      "target": "Aristotle",
+      "weight": -3
+    },
+    {
+      "source": "Plato",
+      "target": "Epicurus",
+      "weight": -2
+    },
+    {
+      "source": "Plato",
+      "target": "Stoics (Zeno of Citium et al)",
+      "weight": 2
+    },
+    {
+      "source": "Plato",
+      "target": "Plotinus",
+      "weight": 2
+    },
+    {
+      "source": "Plato",
+      "target": "Saint Augustine",
+      "weight": 3
+    },
+    {
+      "source": "Plato",
+      "target": "Thomas Aquinas",
+      "weight": -1
+    },
+    {
+      "source": "Plato",
+      "target": "Thomas Hobbes",
+      "weight": 1
+    },
+    {
+      "source": "Plato",
+      "target": "Ren\u00e9 Descartes",
+      "weight": 4
+    },
+    {
+      "source": "Plato",
+      "target": "Benedict Spinoza",
+      "weight": -1
+    },
+    {
+      "source": "Plato",
+      "target": "Anne Conway",
+      "weight": 2
+    },
+    {
+      "source": "Plato",
+      "target": "Immanuel Kant",
+      "weight": 1
+    },
+    {
+      "source": "Plato",
+      "target": "Mary Wollstonecraft",
+      "weight": 1
+    },
+    {
+      "source": "Plato",
+      "target": "Friedrich Schelling",
+      "weight": -1
+    },
+    {
+      "source": "Plato",
+      "target": "John Stuart Mill",
+      "weight": 0
+    },
+    {
+      "source": "Plato",
+      "target": "Charles Darwin",
+      "weight": -1
+    },
+    {
+      "source": "Plato",
+      "target": "Sigmund Freud",
+      "weight": 2
+    },
+    {
+      "source": "Plato",
+      "target": "Theodor Adorno",
+      "weight": -1
+    },
+    {
+      "source": "Plato",
+      "target": "Hannah Arendt",
+      "weight": -2
+    },
+    {
+      "source": "Plato",
+      "target": "Willard Van Orman Quine",
+      "weight": -1
+    },
+    {
+      "source": "Plato",
+      "target": "Jean Baudrillard",
+      "weight": 1
+    },
+    {
+      "source": "Plato",
+      "target": "Luce Irigaray",
+      "weight": -1
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Heraclitus",
+      "weight": 1
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Stoics (Zeno of Citium et al)",
+      "weight": 1
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Benedict Spinoza",
+      "weight": 1
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Jean-Jacques Rousseau",
+      "weight": 1
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Edmund Burke",
+      "weight": 1
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Johann Gottlieb Fichte",
+      "weight": 1
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Friedrich Schelling",
+      "weight": 1
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Ludwig Feuerbach",
+      "weight": -1
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Charles Darwin",
+      "weight": 1
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "S\u00f8ren Kierkegaard",
+      "weight": -3
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Karl Marx",
+      "weight": 4
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Sigmund Freud",
+      "weight": 1
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Edmund Husserl",
+      "weight": 1
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Henri Bergson",
+      "weight": 2
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Jacques Lacan",
+      "weight": 3
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Theodor Adorno",
+      "weight": -1
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Hannah Arendt",
+      "weight": -1
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Simone de Beauvoir",
+      "weight": 1
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Sir Peter Strawson",
+      "weight": 1
+    },
+    {
+      "source": "Georg Wilhelm Friedrich Hegel",
+      "target": "Jean-Fran\u00e7ois Lyotard",
+      "weight": -1
+    },
+    {
+      "source": "Charles Darwin",
+      "target": "Heraclitus",
+      "weight": 1
+    },
+    {
+      "source": "Charles Darwin",
+      "target": "Plato",
+      "weight": -1
+    },
+    {
+      "source": "Charles Darwin",
+      "target": "Thomas Hobbes",
+      "weight": 1
+    },
+    {
+      "source": "Charles Darwin",
+      "target": "Friedrich Schelling",
+      "weight": 2
+    },
+    {
+      "source": "Charles Darwin",
+      "target": "Georg Wilhelm Friedrich Hegel",
+      "weight": 1
+    },
+    {
+      "source": "Charles Darwin",
+      "target": "Karl Marx",
+      "weight": 1
+    },
+    {
+      "source": "Charles Darwin",
+      "target": "Charles Sanders Peirce",
+      "weight": 1
+    },
+    {
+      "source": "Charles Darwin",
+      "target": "Friedrich Nietzsche",
+      "weight": 1
+    },
+    {
+      "source": "Charles Darwin",
+      "target": "Sigmund Freud",
+      "weight": 1
+    },
+    {
+      "source": "Charles Darwin",
+      "target": "Ferdinand de Saussure",
+      "weight": 1
+    },
+    {
+      "source": "Charles Darwin",
+      "target": "Henri Bergson",
+      "weight": 0
+    },
+    {
+      "source": "Charles Darwin",
+      "target": "John Dewey",
+      "weight": 1
+    },
+    {
+      "source": "Charles Darwin",
+      "target": "Willard Van Orman Quine",
+      "weight": 1
+    },
+    {
+      "source": "Charles Darwin",
+      "target": "Thomas Kuhn",
+      "weight": 2
+    },
+    {
+      "source": "Charles Darwin",
+      "target": "Jerry Fodor",
+      "weight": -2
+    },
+    {
+      "source": "Charles Darwin",
+      "target": "Richard Dawkins",
+      "weight": 2
+    },
+    {
+      "source": "Charles Darwin",
+      "target": "Daniel Dennett",
+      "weight": 3
+    },
+    {
+      "source": "Aristotle",
+      "target": "Leucippus & Democritus",
+      "weight": 1
+    },
+    {
+      "source": "Aristotle",
+      "target": "Plato",
+      "weight": -3
+    },
+    {
+      "source": "Aristotle",
+      "target": "Pyrrho",
+      "weight": 1
+    },
+    {
+      "source": "Aristotle",
+      "target": "Epicurus",
+      "weight": 0
+    },
+    {
+      "source": "Aristotle",
+      "target": "Stoics (Zeno of Citium et al)",
+      "weight": 1
+    },
+    {
+      "source": "Aristotle",
+      "target": "Saint Augustine",
+      "weight": -2
+    },
+    {
+      "source": "Aristotle",
+      "target": "Thomas Aquinas",
+      "weight": 1
+    },
+    {
+      "source": "Aristotle",
+      "target": "Thomas Hobbes",
+      "weight": 1
+    },
+    {
+      "source": "Aristotle",
+      "target": "Immanuel Kant",
+      "weight": 1
+    },
+    {
+      "source": "Aristotle",
+      "target": "Mary Wollstonecraft",
+      "weight": -1
+    },
+    {
+      "source": "Aristotle",
+      "target": "Arthur Schopenhauer",
+      "weight": 1
+    },
+    {
+      "source": "Aristotle",
+      "target": "John Stuart Mill",
+      "weight": -1
+    },
+    {
+      "source": "Aristotle",
+      "target": "Charles Sanders Peirce",
+      "weight": 1
+    },
+    {
+      "source": "Aristotle",
+      "target": "Gottlob Frege",
+      "weight": 1
+    },
+    {
+      "source": "Aristotle",
+      "target": "Sigmund Freud",
+      "weight": 1
+    },
+    {
+      "source": "Aristotle",
+      "target": "Ferdinand de Saussure",
+      "weight": 2
+    },
+    {
+      "source": "Aristotle",
+      "target": "Ludwig Wittgenstein",
+      "weight": 1
+    },
+    {
+      "source": "Aristotle",
+      "target": "Georges Bataille",
+      "weight": -1
+    },
+    {
+      "source": "Aristotle",
+      "target": "Simone de Beauvoir",
+      "weight": -1
+    },
+    {
+      "source": "Aristotle",
+      "target": "Hilary Putnam",
+      "weight": 1
+    },
+    {
+      "source": "Aristotle",
+      "target": "John Searle",
+      "weight": 1
+    },
+    {
+      "source": "Epicurus",
+      "target": "Leucippus & Democritus",
+      "weight": 2
+    },
+    {
+      "source": "Epicurus",
+      "target": "Plato",
+      "weight": -2
+    },
+    {
+      "source": "Epicurus",
+      "target": "Aristotle",
+      "weight": 0
+    },
+    {
+      "source": "Epicurus",
+      "target": "Saint Augustine",
+      "weight": -2
+    },
+    {
+      "source": "Epicurus",
+      "target": "Thomas Hobbes",
+      "weight": 2
+    },
+    {
+      "source": "Epicurus",
+      "target": "Benedict Spinoza",
+      "weight": 1
+    },
+    {
+      "source": "Epicurus",
+      "target": "Anne Conway",
+      "weight": -1
+    },
+    {
+      "source": "Epicurus",
+      "target": "Francis Hutcheson",
+      "weight": 1
+    },
+    {
+      "source": "Epicurus",
+      "target": "Jeremy Bentham",
+      "weight": 1
+    },
+    {
+      "source": "Epicurus",
+      "target": "John Stuart Mill",
+      "weight": 1
+    },
+    {
+      "source": "Xenophanes",
+      "target": "Socrates",
+      "weight": 1
+    },
+    {
+      "source": "Xenophanes",
+      "target": "Pyrrho",
+      "weight": 1
+    },
+    {
+      "source": "Xenophanes",
+      "target": "Arthur Schopenhauer",
+      "weight": 1
+    },
+    {
+      "source": "Xenophanes",
+      "target": "Ludwig Feuerbach",
+      "weight": 1
+    },
+    {
+      "source": "Xenophanes",
+      "target": "Charles Sanders Peirce",
+      "weight": 1
+    },
+    {
+      "source": "Socrates",
+      "target": "Xenophanes",
+      "weight": 1
+    },
+    {
+      "source": "Socrates",
+      "target": "Plato",
+      "weight": 3
+    },
+    {
+      "source": "Socrates",
+      "target": "Diogenes",
+      "weight": 1
+    },
+    {
+      "source": "Socrates",
+      "target": "Thomas Aquinas",
+      "weight": 1
+    },
+    {
+      "source": "Socrates",
+      "target": "Jean-Jacques Rousseau",
+      "weight": 1
+    },
+    {
+      "source": "Socrates",
+      "target": "Hannah Arendt",
+      "weight": 1
+    },
+    {
+      "source": "Pyrrho",
+      "target": "Xenophanes",
+      "weight": 1
+    },
+    {
+      "source": "Pyrrho",
+      "target": "Aristotle",
+      "weight": 1
+    },
+    {
+      "source": "Pyrrho",
+      "target": "Timon of Phlius",
+      "weight": 1
+    },
+    {
+      "source": "Pyrrho",
+      "target": "David Hume",
+      "weight": 1
+    },
+    {
+      "source": "Pyrrho",
+      "target": "John Mackie",
+      "weight": 1
+    },
+    {
+      "source": "Pyrrho",
+      "target": "Richard Rorty",
+      "weight": 1
+    },
+    {
+      "source": "Arthur Schopenhauer",
+      "target": "Xenophanes",
+      "weight": 1
+    },
+    {
+      "source": "Arthur Schopenhauer",
+      "target": "Aristotle",
+      "weight": 1
+    },
+    {
+      "source": "Arthur Schopenhauer",
+      "target": "Thomas Hobbes",
+      "weight": 1
+    },
+    {
+      "source": "Arthur Schopenhauer",
+      "target": "Ren\u00e9 Descartes",
+      "weight": -1
+    },
+    {
+      "source": "Arthur Schopenhauer",
+      "target": "Benedict Spinoza",
+      "weight": 3
+    },
+    {
+      "source": "Arthur Schopenhauer",
+      "target": "Francis Hutcheson",
+      "weight": -1
+    },
+    {
+      "source": "Arthur Schopenhauer",
+      "target": "David Hume",
+      "weight": 1
+    },
+    {
+      "source": "Arthur Schopenhauer",
+      "target": "Immanuel Kant",
+      "weight": -1
+    },
+    {
+      "source": "Arthur Schopenhauer",
+      "target": "Ludwig Feuerbach",
+      "weight": 1
+    },
+    {
+      "source": "Arthur Schopenhauer",
+      "target": "Karl Marx",
+      "weight": 1
+    },
+    {
+      "source": "Arthur Schopenhauer",
+      "target": "Friedrich Nietzsche",
+      "weight": 1
+    },
+    {
+      "source": "Arthur Schopenhauer",
+      "target": "Sigmund Freud",
+      "weight": 1
+    },
+    {
+      "source": "Arthur Schopenhauer",
+      "target": "Henri Bergson",
+      "weight": 1
+    },
+    {
+      "source": "Arthur Schopenhauer",
+      "target": "Martin Heidegger",
+      "weight": 1
+    },
+    {
+      "source": "Arthur Schopenhauer",
+      "target": "Jacques Lacan",
+      "weight": 1
+    },
+    {
+      "source": "Arthur Schopenhauer",
+      "target": "Albert Camus",
+      "weight": 1
+    },
+    {
+      "source": "Arthur Schopenhauer",
+      "target": "Richard Hare",
+      "weight": 1
+    },
+    {
+      "source": "Ludwig Feuerbach",
+      "target": "Xenophanes",
+      "weight": 1
+    },
+    {
+      "source": "Ludwig Feuerbach",
+      "target": "Plotinus",
+      "weight": -1
+    },
+    {
+      "source": "Ludwig Feuerbach",
+      "target": "Thomas Aquinas",
+      "weight": -1
+    },
+    {
+      "source": "Ludwig Feuerbach",
+      "target": "Ren\u00e9 Descartes",
+      "weight": -1
+    },
+    {
+      "source": "Ludwig Feuerbach",
+      "target": "Benedict Spinoza",
+      "weight": -1
+    },
+    {
+      "source": "Ludwig Feuerbach",
+      "target": "George Berkeley",
+      "weight": -1
+    },
+    {
+      "source": "Ludwig Feuerbach",
+      "target": "Georg Wilhelm Friedrich Hegel",
+      "weight": -1
+    },
+    {
+      "source": "Ludwig Feuerbach",
+      "target": "Arthur Schopenhauer",
+      "weight": 1
+    },
+    {
+      "source": "Ludwig Feuerbach",
+      "target": "Karl Marx",
+      "weight": 4
+    },
+    {
+      "source": "Ludwig Feuerbach",
+      "target": "Sigmund Freud",
+      "weight": 2
+    },
+    {
+      "source": "Ludwig Feuerbach",
+      "target": "Jean-Paul Sartre",
+      "weight": 1
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Xenophanes",
+      "weight": 1
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Aristotle",
+      "weight": 1
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Charles Darwin",
+      "weight": 1
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "William James",
+      "weight": 2
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Ferdinand de Saussure",
+      "weight": 1
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Henri Bergson",
+      "weight": 1
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "John Dewey",
+      "weight": 4
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Ludwig Wittgenstein",
+      "weight": 2
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Carl Hempel",
+      "weight": 1
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Karl Popper",
+      "weight": 2
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Thomas Kuhn",
+      "weight": -1
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Michael Dummett",
+      "weight": 1
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Bernard Williams",
+      "weight": 1
+    },
+    {
+      "source": "Charles Sanders Peirce",
+      "target": "Richard Rorty",
+      "weight": -1
+    },
+    {
+      "source": "Diogenes",
+      "target": "Socrates",
+      "weight": 1
+    },
+    {
+      "source": "Diogenes",
+      "target": "Johann Gottlieb Fichte",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Socrates",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Plato",
+      "weight": -1
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Aristotle",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Plotinus",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "John Scotus Erigena",
+      "weight": 0
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Saint Anselm",
+      "weight": -1
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "William of Ockham",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Ren\u00e9 Descartes",
+      "weight": -2
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Benedict Spinoza",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "John Locke",
+      "weight": 2
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Ludwig Feuerbach",
+      "weight": -1
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Sigmund Freud",
+      "weight": -1
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Willard Van Orman Quine",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Aquinas",
+      "target": "Daniel Dennett",
+      "weight": 1
+    },
+    {
+      "source": "Jean-Jacques Rousseau",
+      "target": "Socrates",
+      "weight": 1
+    },
+    {
+      "source": "Jean-Jacques Rousseau",
+      "target": "Thomas Hobbes",
+      "weight": -3
+    },
+    {
+      "source": "Jean-Jacques Rousseau",
+      "target": "John Locke",
+      "weight": -1
+    },
+    {
+      "source": "Jean-Jacques Rousseau",
+      "target": "Anne Conway",
+      "weight": 1
+    },
+    {
+      "source": "Jean-Jacques Rousseau",
+      "target": "Francis Hutcheson",
+      "weight": 1
+    },
+    {
+      "source": "Jean-Jacques Rousseau",
+      "target": "David Hume",
+      "weight": -1
+    },
+    {
+      "source": "Jean-Jacques Rousseau",
+      "target": "Edmund Burke",
+      "weight": 1
+    },
+    {
+      "source": "Jean-Jacques Rousseau",
+      "target": "Georg Wilhelm Friedrich Hegel",
+      "weight": 1
+    },
+    {
+      "source": "Jean-Jacques Rousseau",
+      "target": "Friedrich Nietzsche",
+      "weight": 1
+    },
+    {
+      "source": "Jean-Jacques Rousseau",
+      "target": "Sigmund Freud",
+      "weight": 1
+    },
+    {
+      "source": "Jean-Jacques Rousseau",
+      "target": "John Dewey",
+      "weight": 1
+    },
+    {
+      "source": "Jean-Jacques Rousseau",
+      "target": "Georges Bataille",
+      "weight": 1
+    },
+    {
+      "source": "Jean-Jacques Rousseau",
+      "target": "Jacques Lacan",
+      "weight": 1
+    },
+    {
+      "source": "Jean-Jacques Rousseau",
+      "target": "Theodor Adorno",
+      "weight": -1
+    },
+    {
+      "source": "Jean-Jacques Rousseau",
+      "target": "Jean Baudrillard",
+      "weight": 1
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Socrates",
+      "weight": 1
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Plato",
+      "weight": -2
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Saint Augustine",
+      "weight": 2
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Benedict Spinoza",
+      "weight": 1
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Immanuel Kant",
+      "weight": 1
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Georg Wilhelm Friedrich Hegel",
+      "weight": -1
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "John Stuart Mill",
+      "weight": 2
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Karl Marx",
+      "weight": -4
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Friedrich Nietzsche",
+      "weight": 1
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Bertrand Russell",
+      "weight": 1
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Martin Heidegger",
+      "weight": 2
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Richard Hare",
+      "weight": 1
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "John Rawls",
+      "weight": 1
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Jean Baudrillard",
+      "weight": 1
+    },
+    {
+      "source": "Hannah Arendt",
+      "target": "Sandra Harding",
+      "weight": -1
+    },
+    {
+      "source": "Pythagoras",
+      "target": "Plato",
+      "weight": 2
+    },
+    {
+      "source": "Stoics (Zeno of Citium et al)",
+      "target": "Plato",
+      "weight": 2
+    },
+    {
+      "source": "Stoics (Zeno of Citium et al)",
+      "target": "Aristotle",
+      "weight": 1
+    },
+    {
+      "source": "Stoics (Zeno of Citium et al)",
+      "target": "Saint Augustine",
+      "weight": -1
+    },
+    {
+      "source": "Stoics (Zeno of Citium et al)",
+      "target": "Benedict Spinoza",
+      "weight": 3
+    },
+    {
+      "source": "Stoics (Zeno of Citium et al)",
+      "target": "Georg Wilhelm Friedrich Hegel",
+      "weight": 1
+    },
+    {
+      "source": "Plotinus",
+      "target": "Plato",
+      "weight": 2
+    },
+    {
+      "source": "Plotinus",
+      "target": "Thomas Aquinas",
+      "weight": 1
+    },
+    {
+      "source": "Plotinus",
+      "target": "George Berkeley",
+      "weight": 1
+    },
+    {
+      "source": "Plotinus",
+      "target": "Ludwig Feuerbach",
+      "weight": -1
+    },
+    {
+      "source": "Saint Augustine",
+      "target": "Plato",
+      "weight": 3
+    },
+    {
+      "source": "Saint Augustine",
+      "target": "Aristotle",
+      "weight": -2
+    },
+    {
+      "source": "Saint Augustine",
+      "target": "Epicurus",
+      "weight": -2
+    },
+    {
+      "source": "Saint Augustine",
+      "target": "Stoics (Zeno of Citium et al)",
+      "weight": -1
+    },
+    {
+      "source": "Saint Augustine",
+      "target": "Timon of Phlius",
+      "weight": -1
+    },
+    {
+      "source": "Saint Augustine",
+      "target": "Francis Bacon",
+      "weight": 1
+    },
+    {
+      "source": "Saint Augustine",
+      "target": "Ren\u00e9 Descartes",
+      "weight": 1
+    },
+    {
+      "source": "Saint Augustine",
+      "target": "Benedict Spinoza",
+      "weight": -1
+    },
+    {
+      "source": "Saint Augustine",
+      "target": "John Locke",
+      "weight": 1
+    },
+    {
+      "source": "Saint Augustine",
+      "target": "Anne Conway",
+      "weight": 1
+    },
+    {
+      "source": "Saint Augustine",
+      "target": "Gottfried Wilhelm Leibniz",
+      "weight": 1
+    },
+    {
+      "source": "Saint Augustine",
+      "target": "David Hume",
+      "weight": 1
+    },
+    {
+      "source": "Saint Augustine",
+      "target": "Immanuel Kant",
+      "weight": 0
+    },
+    {
+      "source": "Saint Augustine",
+      "target": "Mary Wollstonecraft",
+      "weight": 1
+    },
+    {
+      "source": "Saint Augustine",
+      "target": "Henri Bergson",
+      "weight": -1
+    },
+    {
+      "source": "Saint Augustine",
+      "target": "Hannah Arendt",
+      "weight": 2
+    },
+    {
+      "source": "Saint Augustine",
+      "target": "Luce Irigaray",
+      "weight": -1
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "Plato",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "Aristotle",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "Epicurus",
+      "weight": 2
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "William of Ockham",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "Ren\u00e9 Descartes",
+      "weight": -1
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "Benedict Spinoza",
+      "weight": 2
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "John Locke",
+      "weight": -4
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "Anne Conway",
+      "weight": -1
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "Gottfried Wilhelm Leibniz",
+      "weight": -1
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "Francis Hutcheson",
+      "weight": -1
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "Jean-Jacques Rousseau",
+      "weight": -3
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "Friedrich Schelling",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "Arthur Schopenhauer",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "Charles Darwin",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "Karl Marx",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "Sigmund Freud",
+      "weight": 3
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "Karl Popper",
+      "weight": -1
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "Gilbert Ryle",
+      "weight": -1
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "Donald Davidson",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "David Lewis",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "Richard Dawkins",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Hobbes",
+      "target": "Daniel Dennett",
+      "weight": 1
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Plato",
+      "weight": 4
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Timon of Phlius",
+      "weight": -1
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Saint Augustine",
+      "weight": 1
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Thomas Aquinas",
+      "weight": -2
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Saint Anselm",
+      "weight": 1
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "William of Ockham",
+      "weight": -2
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Francis Bacon",
+      "weight": 1
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Thomas Hobbes",
+      "weight": -1
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Zeno of Elea",
+      "weight": -1
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Benedict Spinoza",
+      "weight": 0
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "John Locke",
+      "weight": 0
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Anne Conway",
+      "weight": -2
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Gottfried Wilhelm Leibniz",
+      "weight": -1
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "George Berkeley",
+      "weight": -1
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "David Hume",
+      "weight": -1
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Arthur Schopenhauer",
+      "weight": -1
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Ludwig Feuerbach",
+      "weight": -1
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Sigmund Freud",
+      "weight": -1
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Edmund Husserl",
+      "weight": 1
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Gilbert Ryle",
+      "weight": -1
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Alfred Jules Ayer",
+      "weight": 1
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Sir Peter Strawson",
+      "weight": -1
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Donald Davidson",
+      "weight": -1
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Hilary Putnam",
+      "weight": -1
+    },
+    {
+      "source": "Ren\u00e9 Descartes",
+      "target": "Bernard Williams",
+      "weight": 0
+    },
+    {
+      "source": "Anne Conway",
+      "target": "Plato",
+      "weight": 2
+    },
+    {
+      "source": "Anne Conway",
+      "target": "Epicurus",
+      "weight": -1
+    },
+    {
+      "source": "Anne Conway",
+      "target": "Saint Augustine",
+      "weight": 1
+    },
+    {
+      "source": "Anne Conway",
+      "target": "Thomas Hobbes",
+      "weight": -1
+    },
+    {
+      "source": "Anne Conway",
+      "target": "Ren\u00e9 Descartes",
+      "weight": -2
+    },
+    {
+      "source": "Anne Conway",
+      "target": "Benedict Spinoza",
+      "weight": -1
+    },
+    {
+      "source": "Anne Conway",
+      "target": "John Locke",
+      "weight": 1
+    },
+    {
+      "source": "Anne Conway",
+      "target": "Gottfried Wilhelm Leibniz",
+      "weight": 2
+    },
+    {
+      "source": "Anne Conway",
+      "target": "Francis Hutcheson",
+      "weight": 1
+    },
+    {
+      "source": "Anne Conway",
+      "target": "Jean-Jacques Rousseau",
+      "weight": 1
+    },
+    {
+      "source": "Anne Conway",
+      "target": "Mary Wollstonecraft",
+      "weight": 1
+    },
+    {
+      "source": "Anne Conway",
+      "target": "Friedrich Schelling",
+      "weight": -1
+    },
+    {
+      "source": "Anne Conway",
+      "target": "David Chalmers",
+      "weight": 1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Plato",
+      "weight": 1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Aristotle",
+      "weight": 1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Saint Augustine",
+      "weight": 0
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Saint Anselm",
+      "weight": -1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Benedict Spinoza",
+      "weight": -1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "John Locke",
+      "weight": 4
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Gottfried Wilhelm Leibniz",
+      "weight": 1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "David Hume",
+      "weight": 0
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Johann Gottlieb Fichte",
+      "weight": 1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Arthur Schopenhauer",
+      "weight": -1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "S\u00f8ren Kierkegaard",
+      "weight": 1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "William James",
+      "weight": -1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Sigmund Freud",
+      "weight": 0
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Ferdinand de Saussure",
+      "weight": 1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Henri Bergson",
+      "weight": 1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "George Edward Moore",
+      "weight": 0
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Ludwig Wittgenstein",
+      "weight": 3
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Martin Heidegger",
+      "weight": -1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Karl Popper",
+      "weight": 2
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Jacques Lacan",
+      "weight": 1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Hannah Arendt",
+      "weight": 1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Maurice Merleau-Ponty",
+      "weight": 1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Wilfred Sellars",
+      "weight": 1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Sir Peter Strawson",
+      "weight": 2
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "John Mackie",
+      "weight": -1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Richard Hare",
+      "weight": 2
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "John Rawls",
+      "weight": 2
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Harry Frankfurt",
+      "weight": -1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Thomas Nagel",
+      "weight": 1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Carol Gilligan",
+      "weight": -1
+    },
+    {
+      "source": "Immanuel Kant",
+      "target": "Daniel Dennett",
+      "weight": 0
+    },
+    {
+      "source": "Mary Wollstonecraft",
+      "target": "Plato",
+      "weight": 1
+    },
+    {
+      "source": "Mary Wollstonecraft",
+      "target": "Aristotle",
+      "weight": -1
+    },
+    {
+      "source": "Mary Wollstonecraft",
+      "target": "Saint Augustine",
+      "weight": 1
+    },
+    {
+      "source": "Mary Wollstonecraft",
+      "target": "Anne Conway",
+      "weight": 1
+    },
+    {
+      "source": "Mary Wollstonecraft",
+      "target": "Edmund Burke",
+      "weight": -1
+    },
+    {
+      "source": "Mary Wollstonecraft",
+      "target": "John Stuart Mill",
+      "weight": 2
+    },
+    {
+      "source": "Mary Wollstonecraft",
+      "target": "Simone de Beauvoir",
+      "weight": 4
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Plato",
+      "weight": 0
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Aristotle",
+      "weight": -1
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Epicurus",
+      "weight": 1
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Benedict Spinoza",
+      "weight": 1
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "John Locke",
+      "weight": 1
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Gottfried Wilhelm Leibniz",
+      "weight": 1
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Jeremy Bentham",
+      "weight": 1
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Mary Wollstonecraft",
+      "weight": 2
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Bertrand Russell",
+      "weight": -1
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Hannah Arendt",
+      "weight": 2
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Simone de Beauvoir",
+      "weight": 1
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Sir Peter Strawson",
+      "weight": -1
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Richard Hare",
+      "weight": 1
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "John Rawls",
+      "weight": -1
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Paul Feyerabend",
+      "weight": 1
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Robert Nozick",
+      "weight": 1
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "Richard Boyd",
+      "weight": 1
+    },
+    {
+      "source": "John Stuart Mill",
+      "target": "David Chalmers",
+      "weight": 1
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Plato",
+      "weight": 2
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Aristotle",
+      "weight": 1
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Thomas Aquinas",
+      "weight": -1
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Thomas Hobbes",
+      "weight": 3
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Ren\u00e9 Descartes",
+      "weight": -1
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Benedict Spinoza",
+      "weight": 1
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "David Hume",
+      "weight": 2
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Jean-Jacques Rousseau",
+      "weight": 1
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Immanuel Kant",
+      "weight": 0
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Georg Wilhelm Friedrich Hegel",
+      "weight": 1
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Arthur Schopenhauer",
+      "weight": 1
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Ludwig Feuerbach",
+      "weight": 2
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Charles Darwin",
+      "weight": 1
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Henri Bergson",
+      "weight": -1
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Bertrand Russell",
+      "weight": 1
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Martin Heidegger",
+      "weight": 1
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Georges Bataille",
+      "weight": 4
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Karl Popper",
+      "weight": 1
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Jacques Lacan",
+      "weight": -1
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "William Frankena",
+      "weight": 1
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Michel Foucault",
+      "weight": -4
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Jerry Fodor",
+      "weight": -1
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "John McDowell",
+      "weight": 1
+    },
+    {
+      "source": "Sigmund Freud",
+      "target": "Daniel Dennett",
+      "weight": 1
+    },
+    {
+      "source": "Theodor Adorno",
+      "target": "Plato",
+      "weight": -1
+    },
+    {
+      "source": "Theodor Adorno",
+      "target": "Francis Bacon",
+      "weight": -2
+    },
+    {
+      "source": "Theodor Adorno",
+      "target": "David Hume",
+      "weight": -1
+    },
+    {
+      "source": "Theodor Adorno",
+      "target": "Jean-Jacques Rousseau",
+      "weight": -1
+    },
+    {
+      "source": "Theodor Adorno",
+      "target": "Georg Wilhelm Friedrich Hegel",
+      "weight": -1
+    },
+    {
+      "source": "Theodor Adorno",
+      "target": "Karl Marx",
+      "weight": 3
+    },
+    {
+      "source": "Theodor Adorno",
+      "target": "Friedrich Nietzsche",
+      "weight": 1
+    },
+    {
+      "source": "Theodor Adorno",
+      "target": "John Dewey",
+      "weight": -2
+    },
+    {
+      "source": "Theodor Adorno",
+      "target": "Bertrand Russell",
+      "weight": -2
+    },
+    {
+      "source": "Theodor Adorno",
+      "target": "Ludwig Wittgenstein",
+      "weight": 2
+    },
+    {
+      "source": "Theodor Adorno",
+      "target": "Rudolf Carnap",
+      "weight": -2
+    },
+    {
+      "source": "Theodor Adorno",
+      "target": "Simone de Beauvoir",
+      "weight": 2
+    },
+    {
+      "source": "Theodor Adorno",
+      "target": "Alfred Jules Ayer",
+      "weight": -1
+    },
+    {
+      "source": "Theodor Adorno",
+      "target": "Thomas Kuhn",
+      "weight": 1
+    },
+    {
+      "source": "Theodor Adorno",
+      "target": "Michel Foucault",
+      "weight": 6
+    },
+    {
+      "source": "Theodor Adorno",
+      "target": "Jean-Fran\u00e7ois Lyotard",
+      "weight": 3
+    },
+    {
+      "source": "Theodor Adorno",
+      "target": "Jean Baudrillard",
+      "weight": 3
+    },
+    {
+      "source": "Theodor Adorno",
+      "target": "Richard Rorty",
+      "weight": 1
+    },
+    {
+      "source": "Theodor Adorno",
+      "target": "Judith Butler",
+      "weight": 3
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Plato",
+      "weight": -1
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Thomas Aquinas",
+      "weight": 1
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "William of Ockham",
+      "weight": 1
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Gottfried Wilhelm Leibniz",
+      "weight": -2
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Charles Darwin",
+      "weight": 1
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Pierre Duhem",
+      "weight": 1
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Rudolf Carnap",
+      "weight": 0
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "John Langshaw Austin",
+      "weight": 1
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Donald Davidson",
+      "weight": 0
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "John Rawls",
+      "weight": 1
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Jean-Fran\u00e7ois Lyotard",
+      "weight": -1
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Michael Dummett",
+      "weight": -2
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Hilary Putnam",
+      "weight": 0
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Bernard Williams",
+      "weight": 1
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Richard Rorty",
+      "weight": 1
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Saul Kripke",
+      "weight": -2
+    },
+    {
+      "source": "Willard Van Orman Quine",
+      "target": "Daniel Dennett",
+      "weight": 3
+    },
+    {
+      "source": "Jean Baudrillard",
+      "target": "Plato",
+      "weight": 1
+    },
+    {
+      "source": "Jean Baudrillard",
+      "target": "Jean-Jacques Rousseau",
+      "weight": 1
+    },
+    {
+      "source": "Jean Baudrillard",
+      "target": "Karl Marx",
+      "weight": -4
+    },
+    {
+      "source": "Jean Baudrillard",
+      "target": "Ferdinand de Saussure",
+      "weight": 1
+    },
+    {
+      "source": "Jean Baudrillard",
+      "target": "Martin Heidegger",
+      "weight": 1
+    },
+    {
+      "source": "Jean Baudrillard",
+      "target": "Georges Bataille",
+      "weight": 3
+    },
+    {
+      "source": "Jean Baudrillard",
+      "target": "Theodor Adorno",
+      "weight": 3
+    },
+    {
+      "source": "Jean Baudrillard",
+      "target": "Hannah Arendt",
+      "weight": 1
+    },
+    {
+      "source": "Jean Baudrillard",
+      "target": "Jean-Fran\u00e7ois Lyotard",
+      "weight": 3
+    },
+    {
+      "source": "Jean Baudrillard",
+      "target": "Richard Rorty",
+      "weight": 1
+    },
+    {
+      "source": "Luce Irigaray",
+      "target": "Plato",
+      "weight": -1
+    },
+    {
+      "source": "Luce Irigaray",
+      "target": "Saint Augustine",
+      "weight": -1
+    },
+    {
+      "source": "Luce Irigaray",
+      "target": "Ferdinand de Saussure",
+      "weight": 1
+    },
+    {
+      "source": "Luce Irigaray",
+      "target": "Jacques Lacan",
+      "weight": 0
+    },
+    {
+      "source": "Luce Irigaray",
+      "target": "Simone de Beauvoir",
+      "weight": 4
+    },
+    {
+      "source": "Luce Irigaray",
+      "target": "Maurice Merleau-Ponty",
+      "weight": 1
+    },
+    {
+      "source": "Luce Irigaray",
+      "target": "Thomas Kuhn",
+      "weight": 1
+    },
+    {
+      "source": "Luce Irigaray",
+      "target": "Michel Foucault",
+      "weight": 3
+    },
+    {
+      "source": "Luce Irigaray",
+      "target": "Jacques Derrida",
+      "weight": 1
+    },
+    {
+      "source": "Luce Irigaray",
+      "target": "Sandra Harding",
+      "weight": 1
+    },
+    {
+      "source": "Luce Irigaray",
+      "target": "Judith Butler",
+      "weight": 0
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Aristotle",
+      "weight": 1
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Ferdinand de Saussure",
+      "weight": -1
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Bertrand Russell",
+      "weight": 2
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Sir Peter Strawson",
+      "weight": 1
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "Donald Davidson",
+      "weight": 1
+    },
+    {
+      "source": "Gottlob Frege",
+      "target": "David Chalmers",
+      "weight": 2
+    },
+    {
+      "source": "Ferdinand de Saussure",
+      "target": "Aristotle",
+      "weight": 2
+    },
+    {
+      "source": "Ferdinand de Saussure",
+      "target": "Immanuel Kant",
+      "weight": 1
+    },
+    {
+      "source": "Ferdinand de Saussure",
+      "target": "Charles Darwin",
+      "weight": 1
+    },
+    {
+      "source": "Ferdinand de Saussure",
+      "target": "Charles Sanders Peirce",
+      "weight": 1
+    },
+    {
+      "source": "Ferdinand de Saussure",
+      "target": "Gottlob Frege",
+      "weight": -1
+    },
+    {
+      "source": "Ferdinand de Saussure",
+      "target": "Ludwig Wittgenstein",
+      "weight": 4
+    },
+    {
+      "source": "Ferdinand de Saussure",
+      "target": "Jacques Lacan",
+      "weight": 5
+    },
+    {
+      "source": "Ferdinand de Saussure",
+      "target": "John Langshaw Austin",
+      "weight": 1
+    },
+    {
+      "source": "Ferdinand de Saussure",
+      "target": "Michael Dummett",
+      "weight": 0
+    },
+    {
+      "source": "Ferdinand de Saussure",
+      "target": "Hilary Putnam",
+      "weight": 1
+    },
+    {
+      "source": "Ferdinand de Saussure",
+      "target": "Jean Baudrillard",
+      "weight": 1
+    },
+    {
+      "source": "Ferdinand de Saussure",
+      "target": "Jacques Derrida",
+      "weight": -1
+    },
+    {
+      "source": "Ferdinand de Saussure",
+      "target": "Luce Irigaray",
+      "weight": 1
+    },
+    {
+      "source": "Ferdinand de Saussure",
+      "target": "Richard Dawkins",
+      "weight": 1
+    },
+    {
+      "source": "Ferdinand de Saussure",
+      "target": "Daniel Dennett",
+      "weight": 1
+    },
+    {
+      "source": "Ferdinand de Saussure",
+      "target": "Judith Butler",
+      "weight": 1
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Aristotle",
+      "weight": 1
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Francis Bacon",
+      "weight": 1
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "John Locke",
+      "weight": 1
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "David Hume",
+      "weight": 1
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Immanuel Kant",
+      "weight": 3
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Charles Sanders Peirce",
+      "weight": 2
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Ferdinand de Saussure",
+      "weight": 4
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Bertrand Russell",
+      "weight": 2
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "George Edward Moore",
+      "weight": 1
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Ludwig Wittgenstein",
+      "weight": -2
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Rudolf Carnap",
+      "weight": 3
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Gilbert Ryle",
+      "weight": 2
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Theodor Adorno",
+      "weight": 2
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Alfred Jules Ayer",
+      "weight": 1
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "John Langshaw Austin",
+      "weight": 4
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Sir Peter Strawson",
+      "weight": 1
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Donald Davidson",
+      "weight": 1
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Thomas Kuhn",
+      "weight": 1
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Michel Foucault",
+      "weight": 1
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Jean-Fran\u00e7ois Lyotard",
+      "weight": 2
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Michael Dummett",
+      "weight": 2
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Hilary Putnam",
+      "weight": 2
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Bernard Williams",
+      "weight": -1
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Jacques Derrida",
+      "weight": -1
+    },
+    {
+      "source": "Ludwig Wittgenstein",
+      "target": "Richard Rorty",
+      "weight": 4
+    },
+    {
+      "source": "Georges Bataille",
+      "target": "Aristotle",
+      "weight": -1
+    },
+    {
+      "source": "Georges Bataille",
+      "target": "Jean-Jacques Rousseau",
+      "weight": 1
+    },
+    {
+      "source": "Georges Bataille",
+      "target": "Karl Marx",
+      "weight": -1
+    },
+    {
+      "source": "Georges Bataille",
+      "target": "Friedrich Nietzsche",
+      "weight": 2
+    },
+    {
+      "source": "Georges Bataille",
+      "target": "Sigmund Freud",
+      "weight": 4
+    },
+    {
+      "source": "Georges Bataille",
+      "target": "Martin Heidegger",
+      "weight": 1
+    },
+    {
+      "source": "Georges Bataille",
+      "target": "Jacques Lacan",
+      "weight": 1
+    },
+    {
+      "source": "Georges Bataille",
+      "target": "Michel Foucault",
+      "weight": 1
+    },
+    {
+      "source": "Georges Bataille",
+      "target": "Jean Baudrillard",
+      "weight": 3
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Aristotle",
+      "weight": -1
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Mary Wollstonecraft",
+      "weight": 4
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Georg Wilhelm Friedrich Hegel",
+      "weight": 1
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "John Stuart Mill",
+      "weight": 1
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Theodor Adorno",
+      "weight": 2
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Jean-Paul Sartre",
+      "weight": 3
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Michel Foucault",
+      "weight": 2
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Luce Irigaray",
+      "weight": 4
+    },
+    {
+      "source": "Simone de Beauvoir",
+      "target": "Judith Butler",
+      "weight": 0
+    },
+    {
+      "source": "Hilary Putnam",
+      "target": "Aristotle",
+      "weight": 1
+    },
+    {
+      "source": "Hilary Putnam",
+      "target": "Ren\u00e9 Descartes",
+      "weight": -1
+    },
+    {
+      "source": "Hilary Putnam",
+      "target": "George Berkeley",
+      "weight": -2
+    },
+    {
+      "source": "Hilary Putnam",
+      "target": "Ferdinand de Saussure",
+      "weight": 1
+    },
+    {
+      "source": "Hilary Putnam",
+      "target": "Pierre Duhem",
+      "weight": 1
+    },
+    {
+      "source": "Hilary Putnam",
+      "target": "Ludwig Wittgenstein",
+      "weight": 2
+    },
+    {
+      "source": "Hilary Putnam",
+      "target": "Gilbert Ryle",
+      "weight": 1
+    },
+    {
+      "source": "Hilary Putnam",
+      "target": "John Langshaw Austin",
+      "weight": 1
+    },
+    {
+      "source": "Hilary Putnam",
+      "target": "Willard Van Orman Quine",
+      "weight": 0
+    },
+    {
+      "source": "Hilary Putnam",
+      "target": "Donald Davidson",
+      "weight": -1
+    },
+    {
+      "source": "Hilary Putnam",
+      "target": "John Searle",
+      "weight": 0
+    },
+    {
+      "source": "Hilary Putnam",
+      "target": "Jerry Fodor",
+      "weight": 1
+    },
+    {
+      "source": "Hilary Putnam",
+      "target": "Saul Kripke",
+      "weight": 2
+    },
+    {
+      "source": "Hilary Putnam",
+      "target": "David Lewis",
+      "weight": -1
+    },
+    {
+      "source": "Hilary Putnam",
+      "target": "Richard Boyd",
+      "weight": 1
+    },
+    {
+      "source": "Hilary Putnam",
+      "target": "Daniel Dennett",
+      "weight": 1
+    },
+    {
+      "source": "John Searle",
+      "target": "Aristotle",
+      "weight": 1
+    },
+    {
+      "source": "John Searle",
+      "target": "John Langshaw Austin",
+      "weight": 3
+    },
+    {
+      "source": "John Searle",
+      "target": "William Frankena",
+      "weight": 1
+    },
+    {
+      "source": "John Searle",
+      "target": "Paul Grice",
+      "weight": 0
+    },
+    {
+      "source": "John Searle",
+      "target": "Richard Hare",
+      "weight": -1
+    },
+    {
+      "source": "John Searle",
+      "target": "Hilary Putnam",
+      "weight": 0
+    },
+    {
+      "source": "John Searle",
+      "target": "Jacques Derrida",
+      "weight": -1
+    },
+    {
+      "source": "John Searle",
+      "target": "Jerry Fodor",
+      "weight": 1
+    },
+    {
+      "source": "John Searle",
+      "target": "David Lewis",
+      "weight": -1
+    },
+    {
+      "source": "John Searle",
+      "target": "Daniel Dennett",
+      "weight": -2
+    },
+    {
+      "source": "John Searle",
+      "target": "David Chalmers",
+      "weight": -2
+    },
+    {
+      "source": "Johann Gottlieb Fichte",
+      "target": "Diogenes",
+      "weight": 1
+    },
+    {
+      "source": "Johann Gottlieb Fichte",
+      "target": "George Berkeley",
+      "weight": 1
+    },
+    {
+      "source": "Johann Gottlieb Fichte",
+      "target": "Francis Hutcheson",
+      "weight": 1
+    },
+    {
+      "source": "Johann Gottlieb Fichte",
+      "target": "David Hume",
+      "weight": 2
+    },
+    {
+      "source": "Johann Gottlieb Fichte",
+      "target": "Immanuel Kant",
+      "weight": 1
+    },
+    {
+      "source": "Johann Gottlieb Fichte",
+      "target": "Friedrich Schelling",
+      "weight": -1
+    },
+    {
+      "source": "Johann Gottlieb Fichte",
+      "target": "Georg Wilhelm Friedrich Hegel",
+      "weight": 1
+    },
+    {
+      "source": "Johann Gottlieb Fichte",
+      "target": "S\u00f8ren Kierkegaard",
+      "weight": 2
+    },
+    {
+      "source": "Johann Gottlieb Fichte",
+      "target": "Henri Bergson",
+      "weight": 1
+    },
+    {
+      "source": "Johann Gottlieb Fichte",
+      "target": "Pierre Duhem",
+      "weight": 1
+    },
+    {
+      "source": "Johann Gottlieb Fichte",
+      "target": "Karl Popper",
+      "weight": 1
+    },
+    {
+      "source": "Timon of Phlius",
+      "target": "Pyrrho",
+      "weight": 1
+    },
+    {
+      "source": "Timon of Phlius",
+      "target": "Saint Augustine",
+      "weight": -1
+    },
+    {
+      "source": "Timon of Phlius",
+      "target": "Ren\u00e9 Descartes",
+      "weight": -1
+    },
+    {
+      "source": "David Hume",
+      "target": "Pyrrho",
+      "weight": 1
+    },
+    {
+      "source": "David Hume",
+      "target": "Saint Augustine",
+      "weight": 1
+    },
+    {
+      "source": "David Hume",
+      "target": "Saint Anselm",
+      "weight": -1
+    },
+    {
+      "source": "David Hume",
+      "target": "Ren\u00e9 Descartes",
+      "weight": -1
+    },
+    {
+      "source": "David Hume",
+      "target": "John Locke",
+      "weight": 4
+    },
+    {
+      "source": "David Hume",
+      "target": "Gottfried Wilhelm Leibniz",
+      "weight": 1
+    },
+    {
+      "source": "David Hume",
+      "target": "George Berkeley",
+      "weight": -1
+    },
+    {
+      "source": "David Hume",
+      "target": "Francis Hutcheson",
+      "weight": 2
+    },
+    {
+      "source": "David Hume",
+      "target": "Jean-Jacques Rousseau",
+      "weight": -1
+    },
+    {
+      "source": "David Hume",
+      "target": "Immanuel Kant",
+      "weight": 0
+    },
+    {
+      "source": "David Hume",
+      "target": "Johann Gottlieb Fichte",
+      "weight": 2
+    },
+    {
+      "source": "David Hume",
+      "target": "Arthur Schopenhauer",
+      "weight": 1
+    },
+    {
+      "source": "David Hume",
+      "target": "Sigmund Freud",
+      "weight": 2
+    },
+    {
+      "source": "David Hume",
+      "target": "Edmund Husserl",
+      "weight": 1
+    },
+    {
+      "source": "David Hume",
+      "target": "Bertrand Russell",
+      "weight": 0
+    },
+    {
+      "source": "David Hume",
+      "target": "Ludwig Wittgenstein",
+      "weight": 1
+    },
+    {
+      "source": "David Hume",
+      "target": "Karl Popper",
+      "weight": 2
+    },
+    {
+      "source": "David Hume",
+      "target": "Gilbert Ryle",
+      "weight": 1
+    },
+    {
+      "source": "David Hume",
+      "target": "Jacques Lacan",
+      "weight": 1
+    },
+    {
+      "source": "David Hume",
+      "target": "Theodor Adorno",
+      "weight": -1
+    },
+    {
+      "source": "David Hume",
+      "target": "Alfred Jules Ayer",
+      "weight": 1
+    },
+    {
+      "source": "David Hume",
+      "target": "John Langshaw Austin",
+      "weight": 1
+    },
+    {
+      "source": "David Hume",
+      "target": "William Frankena",
+      "weight": -1
+    },
+    {
+      "source": "David Hume",
+      "target": "Peter Winch",
+      "weight": 1
+    },
+    {
+      "source": "David Hume",
+      "target": "Richard Hare",
+      "weight": 1
+    },
+    {
+      "source": "David Hume",
+      "target": "Jean-Fran\u00e7ois Lyotard",
+      "weight": 1
+    },
+    {
+      "source": "David Hume",
+      "target": "Daniel Dennett",
+      "weight": 1
+    },
+    {
+      "source": "David Hume",
+      "target": "Simon Blackburn",
+      "weight": 1
+    },
+    {
+      "source": "David Hume",
+      "target": "Judith Butler",
+      "weight": 1
+    },
+    {
+      "source": "John Mackie",
+      "target": "Pyrrho",
+      "weight": 1
+    },
+    {
+      "source": "John Mackie",
+      "target": "Immanuel Kant",
+      "weight": -1
+    },
+    {
+      "source": "John Mackie",
+      "target": "George Edward Moore",
+      "weight": -1
+    },
+    {
+      "source": "John Mackie",
+      "target": "John McDowell",
+      "weight": -1
+    },
+    {
+      "source": "John Mackie",
+      "target": "Richard Boyd",
+      "weight": -1
+    },
+    {
+      "source": "John Mackie",
+      "target": "Tim Scanlon",
+      "weight": -2
+    },
+    {
+      "source": "Richard Rorty",
+      "target": "Pyrrho",
+      "weight": 1
+    },
+    {
+      "source": "Richard Rorty",
+      "target": "Charles Sanders Peirce",
+      "weight": -1
+    },
+    {
+      "source": "Richard Rorty",
+      "target": "John Dewey",
+      "weight": 1
+    },
+    {
+      "source": "Richard Rorty",
+      "target": "Ludwig Wittgenstein",
+      "weight": 4
+    },
+    {
+      "source": "Richard Rorty",
+      "target": "Theodor Adorno",
+      "weight": 1
+    },
+    {
+      "source": "Richard Rorty",
+      "target": "Willard Van Orman Quine",
+      "weight": 1
+    },
+    {
+      "source": "Richard Rorty",
+      "target": "Wilfred Sellars",
+      "weight": 2
+    },
+    {
+      "source": "Richard Rorty",
+      "target": "Donald Davidson",
+      "weight": 1
+    },
+    {
+      "source": "Richard Rorty",
+      "target": "Jean-Fran\u00e7ois Lyotard",
+      "weight": 1
+    },
+    {
+      "source": "Richard Rorty",
+      "target": "Jean Baudrillard",
+      "weight": 1
+    },
+    {
+      "source": "Francis Hutcheson",
+      "target": "Epicurus",
+      "weight": 1
+    },
+    {
+      "source": "Francis Hutcheson",
+      "target": "Thomas Hobbes",
+      "weight": -1
+    },
+    {
+      "source": "Francis Hutcheson",
+      "target": "John Locke",
+      "weight": 1
+    },
+    {
+      "source": "Francis Hutcheson",
+      "target": "Anne Conway",
+      "weight": 1
+    },
+    {
+      "source": "Francis Hutcheson",
+      "target": "David Hume",
+      "weight": 2
+    },
+    {
+      "source": "Francis Hutcheson",
+      "target": "Jean-Jacques Rousseau",
+      "weight": 1
+    },
+    {
+      "source": "Francis Hutcheson",
+      "target": "Jeremy Bentham",
+      "weight": 1
+    },
+    {
+      "source": "Francis Hutcheson",
+      "target": "Johann Gottlieb Fichte",
+      "weight": 1
+    },
+    {
+      "source": "Francis Hutcheson",
+      "target": "Arthur Schopenhauer",
+      "weight": -1
+    },
+    {
+      "source": "Francis Hutcheson",
+      "target": "S\u00f8ren Kierkegaard",
+      "weight": 1
+    },
+    {
+      "source": "Francis Hutcheson",
+      "target": "George Edward Moore",
+      "weight": 1
+    },
+    {
+      "source": "Francis Hutcheson",
+      "target": "John McDowell",
+      "weight": 1
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Epicurus",
+      "weight": 1
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Benedict Spinoza",
+      "weight": 1
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Francis Hutcheson",
+      "weight": 1
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "John Stuart Mill",
+      "weight": 1
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Elizabeth Anscombe",
+      "weight": -1
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "John Rawls",
+      "weight": 0
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Bernard Williams",
+      "weight": -1
+    },
+    {
+      "source": "Jeremy Bentham",
+      "target": "Daniel Dennett",
+      "weight": 1
+    },
+    {
+      "source": "George Berkeley",
+      "target": "Plotinus",
+      "weight": 1
+    },
+    {
+      "source": "George Berkeley",
+      "target": "Ren\u00e9 Descartes",
+      "weight": -1
+    },
+    {
+      "source": "George Berkeley",
+      "target": "John Locke",
+      "weight": -1
+    },
+    {
+      "source": "George Berkeley",
+      "target": "David Hume",
+      "weight": -1
+    },
+    {
+      "source": "George Berkeley",
+      "target": "Johann Gottlieb Fichte",
+      "weight": 1
+    },
+    {
+      "source": "George Berkeley",
+      "target": "Ludwig Feuerbach",
+      "weight": -1
+    },
+    {
+      "source": "George Berkeley",
+      "target": "Edmund Husserl",
+      "weight": -1
+    },
+    {
+      "source": "George Berkeley",
+      "target": "Hilary Putnam",
+      "weight": -2
+    },
+    {
+      "source": "Francis Bacon",
+      "target": "Saint Augustine",
+      "weight": 1
+    },
+    {
+      "source": "Francis Bacon",
+      "target": "William of Ockham",
+      "weight": 1
+    },
+    {
+      "source": "Francis Bacon",
+      "target": "Ren\u00e9 Descartes",
+      "weight": 1
+    },
+    {
+      "source": "Francis Bacon",
+      "target": "John Locke",
+      "weight": 1
+    },
+    {
+      "source": "Francis Bacon",
+      "target": "Ludwig Wittgenstein",
+      "weight": 1
+    },
+    {
+      "source": "Francis Bacon",
+      "target": "Karl Popper",
+      "weight": 1
+    },
+    {
+      "source": "Francis Bacon",
+      "target": "Theodor Adorno",
+      "weight": -2
+    },
+    {
+      "source": "John Locke",
+      "target": "Saint Augustine",
+      "weight": 1
+    },
+    {
+      "source": "John Locke",
+      "target": "John Scotus Erigena",
+      "weight": 1
+    },
+    {
+      "source": "John Locke",
+      "target": "Thomas Aquinas",
+      "weight": 2
+    },
+    {
+      "source": "John Locke",
+      "target": "William of Ockham",
+      "weight": 1
+    },
+    {
+      "source": "John Locke",
+      "target": "Francis Bacon",
+      "weight": 1
+    },
+    {
+      "source": "John Locke",
+      "target": "Thomas Hobbes",
+      "weight": -4
+    },
+    {
+      "source": "John Locke",
+      "target": "Ren\u00e9 Descartes",
+      "weight": 0
+    },
+    {
+      "source": "John Locke",
+      "target": "Benedict Spinoza",
+      "weight": 2
+    },
+    {
+      "source": "John Locke",
+      "target": "Anne Conway",
+      "weight": 1
+    },
+    {
+      "source": "John Locke",
+      "target": "Gottfried Wilhelm Leibniz",
+      "weight": 1
+    },
+    {
+      "source": "John Locke",
+      "target": "George Berkeley",
+      "weight": -1
+    },
+    {
+      "source": "John Locke",
+      "target": "Francis Hutcheson",
+      "weight": 1
+    },
+    {
+      "source": "John Locke",
+      "target": "David Hume",
+      "weight": 4
+    },
+    {
+      "source": "John Locke",
+      "target": "Jean-Jacques Rousseau",
+      "weight": -1
+    },
+    {
+      "source": "John Locke",
+      "target": "Edmund Burke",
+      "weight": -1
+    },
+    {
+      "source": "John Locke",
+      "target": "Immanuel Kant",
+      "weight": 4
+    },
+    {
+      "source": "John Locke",
+      "target": "John Stuart Mill",
+      "weight": 1
+    },
+    {
+      "source": "John Locke",
+      "target": "Pierre Duhem",
+      "weight": 1
+    },
+    {
+      "source": "John Locke",
+      "target": "Ludwig Wittgenstein",
+      "weight": 1
+    },
+    {
+      "source": "John Locke",
+      "target": "Karl Popper",
+      "weight": 1
+    },
+    {
+      "source": "John Locke",
+      "target": "Alfred Jules Ayer",
+      "weight": 1
+    },
+    {
+      "source": "John Locke",
+      "target": "Robert Nozick",
+      "weight": 3
+    },
+    {
+      "source": "John Locke",
+      "target": "Saul Kripke",
+      "weight": -1
+    },
+    {
+      "source": "John Locke",
+      "target": "Daniel Dennett",
+      "weight": -1
+    },
+    {
+      "source": "John Locke",
+      "target": "David Chalmers",
+      "weight": 2
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "Saint Augustine",
+      "weight": 1
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "William of Ockham",
+      "weight": -1
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "Thomas Hobbes",
+      "weight": -1
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "Ren\u00e9 Descartes",
+      "weight": -1
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "Benedict Spinoza",
+      "weight": -1
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "John Locke",
+      "weight": 1
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "Anne Conway",
+      "weight": 2
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "David Hume",
+      "weight": 1
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "Immanuel Kant",
+      "weight": 1
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "John Stuart Mill",
+      "weight": 1
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "Rudolf Carnap",
+      "weight": -1
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "Maurice Merleau-Ponty",
+      "weight": 1
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "Willard Van Orman Quine",
+      "weight": -2
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "Thomas Nagel",
+      "weight": 1
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "David Lewis",
+      "weight": 1
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "Daniel Dennett",
+      "weight": -1
+    },
+    {
+      "source": "Gottfried Wilhelm Leibniz",
+      "target": "David Chalmers",
+      "weight": 4
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Saint Augustine",
+      "weight": -1
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Benedict Spinoza",
+      "weight": -1
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Immanuel Kant",
+      "weight": 1
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Johann Gottlieb Fichte",
+      "weight": 1
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Friedrich Schelling",
+      "weight": 1
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Georg Wilhelm Friedrich Hegel",
+      "weight": 2
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Arthur Schopenhauer",
+      "weight": 1
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Charles Darwin",
+      "weight": 0
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Charles Sanders Peirce",
+      "weight": 1
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Sigmund Freud",
+      "weight": -1
+    },
+    {
+      "source": "Henri Bergson",
+      "target": "Wilfred Sellars",
+      "weight": 2
+    },
+    {
+      "source": "John Scotus Erigena",
+      "target": "Thomas Aquinas",
+      "weight": 0
+    },
+    {
+      "source": "John Scotus Erigena",
+      "target": "Benedict Spinoza",
+      "weight": 1
+    },
+    {
+      "source": "John Scotus Erigena",
+      "target": "John Locke",
+      "weight": 1
+    },
+    {
+      "source": "Saint Anselm",
+      "target": "Thomas Aquinas",
+      "weight": -1
+    },
+    {
+      "source": "Saint Anselm",
+      "target": "Ren\u00e9 Descartes",
+      "weight": 1
+    },
+    {
+      "source": "Saint Anselm",
+      "target": "David Hume",
+      "weight": -1
+    },
+    {
+      "source": "Saint Anselm",
+      "target": "Immanuel Kant",
+      "weight": -1
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Thomas Aquinas",
+      "weight": 1
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Francis Bacon",
+      "weight": 1
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Thomas Hobbes",
+      "weight": 1
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Ren\u00e9 Descartes",
+      "weight": -2
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Benedict Spinoza",
+      "weight": 1
+    },
+    {
+      "source": "William of Ockham",
+      "target": "John Locke",
+      "weight": 1
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Gottfried Wilhelm Leibniz",
+      "weight": -1
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Carl Hempel",
+      "weight": 1
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Gilbert Ryle",
+      "weight": 1
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Willard Van Orman Quine",
+      "weight": 1
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Donald Davidson",
+      "weight": 1
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Saul Kripke",
+      "weight": -1
+    },
+    {
+      "source": "William of Ockham",
+      "target": "David Lewis",
+      "weight": -1
+    },
+    {
+      "source": "William of Ockham",
+      "target": "Daniel Dennett",
+      "weight": 2
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Thomas Aquinas",
+      "weight": 1
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "William of Ockham",
+      "weight": 2
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Thomas Hobbes",
+      "weight": 1
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "John Locke",
+      "weight": -1
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Gottfried Wilhelm Leibniz",
+      "weight": -1
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "David Hume",
+      "weight": 1
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Immanuel Kant",
+      "weight": 0
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Jeremy Bentham",
+      "weight": 1
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Friedrich Schelling",
+      "weight": 1
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Charles Darwin",
+      "weight": 3
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Sigmund Freud",
+      "weight": 1
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Ferdinand de Saussure",
+      "weight": 1
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "John Dewey",
+      "weight": 1
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Gilbert Ryle",
+      "weight": 6
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Alfred Jules Ayer",
+      "weight": -1
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Willard Van Orman Quine",
+      "weight": 3
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Wilfred Sellars",
+      "weight": 2
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Donald Davidson",
+      "weight": 1
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Jean-Fran\u00e7ois Lyotard",
+      "weight": -1
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Hilary Putnam",
+      "weight": 1
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "John Searle",
+      "weight": -2
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Jerry Fodor",
+      "weight": -1
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Thomas Nagel",
+      "weight": -1
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Frank Jackson",
+      "weight": -1
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "John McDowell",
+      "weight": 1
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "Richard Dawkins",
+      "weight": 3
+    },
+    {
+      "source": "Daniel Dennett",
+      "target": "David Chalmers",
+      "weight": -4
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "William of Ockham",
+      "weight": 1
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Charles Sanders Peirce",
+      "weight": 1
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Karl Popper",
+      "weight": -4
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Frank Ramsey",
+      "weight": 1
+    },
+    {
+      "source": "Carl Hempel",
+      "target": "Thomas Kuhn",
+      "weight": -2
+    },
+    {
+      "source": "Gilbert Ryle",
+      "target": "William of Ockham",
+      "weight": 1
+    },
+    {
+      "source": "Gilbert Ryle",
+      "target": "Thomas Hobbes",
+      "weight": -1
+    },
+    {
+      "source": "Gilbert Ryle",
+      "target": "Ren\u00e9 Descartes",
+      "weight": -1
+    },
+    {
+      "source": "Gilbert Ryle",
+      "target": "David Hume",
+      "weight": 1
+    },
+    {
+      "source": "Gilbert Ryle",
+      "target": "Bertrand Russell",
+      "weight": 0
+    },
+    {
+      "source": "Gilbert Ryle",
+      "target": "Ludwig Wittgenstein",
+      "weight": 2
+    },
+    {
+      "source": "Gilbert Ryle",
+      "target": "John Langshaw Austin",
+      "weight": 1
+    },
+    {
+      "source": "Gilbert Ryle",
+      "target": "Wilfred Sellars",
+      "weight": 2
+    },
+    {
+      "source": "Gilbert Ryle",
+      "target": "Sir Peter Strawson",
+      "weight": 1
+    },
+    {
+      "source": "Gilbert Ryle",
+      "target": "Donald Davidson",
+      "weight": 1
+    },
+    {
+      "source": "Gilbert Ryle",
+      "target": "Hilary Putnam",
+      "weight": 1
+    },
+    {
+      "source": "Gilbert Ryle",
+      "target": "Daniel Dennett",
+      "weight": 6
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "William of Ockham",
+      "weight": 1
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Thomas Hobbes",
+      "weight": 1
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Ren\u00e9 Descartes",
+      "weight": -1
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Benedict Spinoza",
+      "weight": 1
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Gottlob Frege",
+      "weight": 1
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Ludwig Wittgenstein",
+      "weight": 1
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Gilbert Ryle",
+      "weight": 1
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "John Langshaw Austin",
+      "weight": 1
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Willard Van Orman Quine",
+      "weight": 0
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Peter Winch",
+      "weight": 0
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Michael Dummett",
+      "weight": 1
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Hilary Putnam",
+      "weight": -1
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Richard Rorty",
+      "weight": 1
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "David Lewis",
+      "weight": 2
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "Daniel Dennett",
+      "weight": 1
+    },
+    {
+      "source": "Donald Davidson",
+      "target": "David Chalmers",
+      "weight": 1
+    },
+    {
+      "source": "Saul Kripke",
+      "target": "William of Ockham",
+      "weight": -1
+    },
+    {
+      "source": "Saul Kripke",
+      "target": "John Locke",
+      "weight": -1
+    },
+    {
+      "source": "Saul Kripke",
+      "target": "Bertrand Russell",
+      "weight": -1
+    },
+    {
+      "source": "Saul Kripke",
+      "target": "Willard Van Orman Quine",
+      "weight": -2
+    },
+    {
+      "source": "Saul Kripke",
+      "target": "Hilary Putnam",
+      "weight": 2
+    },
+    {
+      "source": "Saul Kripke",
+      "target": "David Lewis",
+      "weight": -1
+    },
+    {
+      "source": "Saul Kripke",
+      "target": "David Chalmers",
+      "weight": -1
+    },
+    {
+      "source": "David Lewis",
+      "target": "William of Ockham",
+      "weight": -1
+    },
+    {
+      "source": "David Lewis",
+      "target": "Thomas Hobbes",
+      "weight": 1
+    },
+    {
+      "source": "David Lewis",
+      "target": "Benedict Spinoza",
+      "weight": 1
+    },
+    {
+      "source": "David Lewis",
+      "target": "Gottfried Wilhelm Leibniz",
+      "weight": 1
+    },
+    {
+      "source": "David Lewis",
+      "target": "Elizabeth Anscombe",
+      "weight": 1
+    },
+    {
+      "source": "David Lewis",
+      "target": "Donald Davidson",
+      "weight": 2
+    },
+    {
+      "source": "David Lewis",
+      "target": "Hilary Putnam",
+      "weight": -1
+    },
+    {
+      "source": "David Lewis",
+      "target": "John Searle",
+      "weight": -1
+    },
+    {
+      "source": "David Lewis",
+      "target": "Jerry Fodor",
+      "weight": 1
+    },
+    {
+      "source": "David Lewis",
+      "target": "Saul Kripke",
+      "weight": -1
+    },
+    {
+      "source": "David Lewis",
+      "target": "Frank Jackson",
+      "weight": -1
+    },
+    {
+      "source": "David Lewis",
+      "target": "David Chalmers",
+      "weight": -1
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Francis Bacon",
+      "weight": 1
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Thomas Hobbes",
+      "weight": -1
+    },
+    {
+      "source": "Karl Popper",
+      "target": "John Locke",
+      "weight": 1
+    },
+    {
+      "source": "Karl Popper",
+      "target": "David Hume",
+      "weight": 2
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Edmund Burke",
+      "weight": 1
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Immanuel Kant",
+      "weight": 2
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Johann Gottlieb Fichte",
+      "weight": 1
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Karl Marx",
+      "weight": -2
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Charles Sanders Peirce",
+      "weight": 2
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Sigmund Freud",
+      "weight": 1
+    },
+    {
+      "source": "Karl Popper",
+      "target": "John Dewey",
+      "weight": 1
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Bertrand Russell",
+      "weight": -1
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Carl Hempel",
+      "weight": -4
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Thomas Kuhn",
+      "weight": -2
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Jean-Fran\u00e7ois Lyotard",
+      "weight": 1
+    },
+    {
+      "source": "Karl Popper",
+      "target": "Robert Nozick",
+      "weight": 1
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Thomas Hobbes",
+      "weight": 1
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Georg Wilhelm Friedrich Hegel",
+      "weight": 4
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Arthur Schopenhauer",
+      "weight": 1
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Ludwig Feuerbach",
+      "weight": 4
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Charles Darwin",
+      "weight": 1
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Friedrich Nietzsche",
+      "weight": 1
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Georges Bataille",
+      "weight": -1
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Karl Popper",
+      "weight": -2
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Theodor Adorno",
+      "weight": 3
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Hannah Arendt",
+      "weight": -4
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Jean-Fran\u00e7ois Lyotard",
+      "weight": -1
+    },
+    {
+      "source": "Karl Marx",
+      "target": "Jean Baudrillard",
+      "weight": -4
+    },
+    {
+      "source": "Richard Dawkins",
+      "target": "Thomas Hobbes",
+      "weight": 1
+    },
+    {
+      "source": "Richard Dawkins",
+      "target": "Edmund Burke",
+      "weight": 2
+    },
+    {
+      "source": "Richard Dawkins",
+      "target": "Charles Darwin",
+      "weight": 2
+    },
+    {
+      "source": "Richard Dawkins",
+      "target": "Ferdinand de Saussure",
+      "weight": 1
+    },
+    {
+      "source": "Richard Dawkins",
+      "target": "Daniel Dennett",
+      "weight": 3
+    },
+    {
+      "source": "Zeno of Elea",
+      "target": "Ren\u00e9 Descartes",
+      "weight": -1
+    },
+    {
+      "source": "Zeno of Elea",
+      "target": "Bertrand Russell",
+      "weight": -1
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Zeno of Elea",
+      "weight": -1
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "David Hume",
+      "weight": 0
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "John Stuart Mill",
+      "weight": -1
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Friedrich Nietzsche",
+      "weight": 1
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Gottlob Frege",
+      "weight": 2
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Sigmund Freud",
+      "weight": 1
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Ludwig Wittgenstein",
+      "weight": 2
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Karl Popper",
+      "weight": -1
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Gilbert Ryle",
+      "weight": 0
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Theodor Adorno",
+      "weight": -2
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Hannah Arendt",
+      "weight": 1
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Sir Peter Strawson",
+      "weight": -2
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "Saul Kripke",
+      "weight": -1
+    },
+    {
+      "source": "Bertrand Russell",
+      "target": "David Chalmers",
+      "weight": 1
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Ren\u00e9 Descartes",
+      "weight": 1
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "George Berkeley",
+      "weight": -1
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "David Hume",
+      "weight": 1
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Georg Wilhelm Friedrich Hegel",
+      "weight": 1
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Martin Heidegger",
+      "weight": 1
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Jean-Paul Sartre",
+      "weight": 3
+    },
+    {
+      "source": "Edmund Husserl",
+      "target": "Maurice Merleau-Ponty",
+      "weight": -1
+    },
+    {
+      "source": "Alfred Jules Ayer",
+      "target": "Ren\u00e9 Descartes",
+      "weight": 1
+    },
+    {
+      "source": "Alfred Jules Ayer",
+      "target": "John Locke",
+      "weight": 1
+    },
+    {
+      "source": "Alfred Jules Ayer",
+      "target": "David Hume",
+      "weight": 1
+    },
+    {
+      "source": "Alfred Jules Ayer",
+      "target": "Ludwig Wittgenstein",
+      "weight": 1
+    },
+    {
+      "source": "Alfred Jules Ayer",
+      "target": "Rudolf Carnap",
+      "weight": 1
+    },
+    {
+      "source": "Alfred Jules Ayer",
+      "target": "Theodor Adorno",
+      "weight": -1
+    },
+    {
+      "source": "Alfred Jules Ayer",
+      "target": "John Langshaw Austin",
+      "weight": -3
+    },
+    {
+      "source": "Alfred Jules Ayer",
+      "target": "Wilfred Sellars",
+      "weight": -1
+    },
+    {
+      "source": "Alfred Jules Ayer",
+      "target": "Richard Hare",
+      "weight": 1
+    },
+    {
+      "source": "Alfred Jules Ayer",
+      "target": "John Rawls",
+      "weight": -1
+    },
+    {
+      "source": "Alfred Jules Ayer",
+      "target": "Daniel Dennett",
+      "weight": -1
+    },
+    {
+      "source": "Sir Peter Strawson",
+      "target": "Ren\u00e9 Descartes",
+      "weight": -1
+    },
+    {
+      "source": "Sir Peter Strawson",
+      "target": "Immanuel Kant",
+      "weight": 2
+    },
+    {
+      "source": "Sir Peter Strawson",
+      "target": "Georg Wilhelm Friedrich Hegel",
+      "weight": 1
+    },
+    {
+      "source": "Sir Peter Strawson",
+      "target": "John Stuart Mill",
+      "weight": -1
+    },
+    {
+      "source": "Sir Peter Strawson",
+      "target": "Gottlob Frege",
+      "weight": 1
+    },
+    {
+      "source": "Sir Peter Strawson",
+      "target": "Bertrand Russell",
+      "weight": -2
+    },
+    {
+      "source": "Sir Peter Strawson",
+      "target": "Ludwig Wittgenstein",
+      "weight": 1
+    },
+    {
+      "source": "Sir Peter Strawson",
+      "target": "Gilbert Ryle",
+      "weight": 1
+    },
+    {
+      "source": "Sir Peter Strawson",
+      "target": "John Langshaw Austin",
+      "weight": 2
+    },
+    {
+      "source": "Sir Peter Strawson",
+      "target": "Wilfred Sellars",
+      "weight": 1
+    },
+    {
+      "source": "Sir Peter Strawson",
+      "target": "Sir Peter Strawson",
+      "weight": -2
+    },
+    {
+      "source": "Sir Peter Strawson",
+      "target": "Paul Grice",
+      "weight": 1
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Ren\u00e9 Descartes",
+      "weight": 0
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Jeremy Bentham",
+      "weight": -1
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Charles Sanders Peirce",
+      "weight": 1
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "John Dewey",
+      "weight": 1
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Ludwig Wittgenstein",
+      "weight": -1
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Rudolf Carnap",
+      "weight": 1
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Willard Van Orman Quine",
+      "weight": 1
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "William Frankena",
+      "weight": -1
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Richard Hare",
+      "weight": -1
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "John Rawls",
+      "weight": 1
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Thomas Kuhn",
+      "weight": -1
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Jean-Fran\u00e7ois Lyotard",
+      "weight": -1
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "Thomas Nagel",
+      "weight": -1
+    },
+    {
+      "source": "Bernard Williams",
+      "target": "John McDowell",
+      "weight": -1
+    },
+    {
+      "source": "Abraham Irving Melden",
+      "target": "Benedict Spinoza",
+      "weight": -1
+    },
+    {
+      "source": "Abraham Irving Melden",
+      "target": "Elizabeth Anscombe",
+      "weight": 1
+    },
+    {
+      "source": "Abraham Irving Melden",
+      "target": "Peter Winch",
+      "weight": 1
+    },
+    {
+      "source": "David Chalmers",
+      "target": "Benedict Spinoza",
+      "weight": 1
+    },
+    {
+      "source": "David Chalmers",
+      "target": "John Locke",
+      "weight": 2
+    },
+    {
+      "source": "David Chalmers",
+      "target": "Anne Conway",
+      "weight": 1
+    },
+    {
+      "source": "David Chalmers",
+      "target": "Gottfried Wilhelm Leibniz",
+      "weight": 4
+    },
+    {
+      "source": "David Chalmers",
+      "target": "John Stuart Mill",
+      "weight": 1
+    },
+    {
+      "source": "David Chalmers",
+      "target": "Gottlob Frege",
+      "weight": 2
+    },
+    {
+      "source": "David Chalmers",
+      "target": "Bertrand Russell",
+      "weight": 1
+    },
+    {
+      "source": "David Chalmers",
+      "target": "Donald Davidson",
+      "weight": 1
+    },
+    {
+      "source": "David Chalmers",
+      "target": "John Searle",
+      "weight": -2
+    },
+    {
+      "source": "David Chalmers",
+      "target": "Thomas Nagel",
+      "weight": 1
+    },
+    {
+      "source": "David Chalmers",
+      "target": "Saul Kripke",
+      "weight": -1
+    },
+    {
+      "source": "David Chalmers",
+      "target": "Frank Jackson",
+      "weight": 2
+    },
+    {
+      "source": "David Chalmers",
+      "target": "David Lewis",
+      "weight": -1
+    },
+    {
+      "source": "David Chalmers",
+      "target": "Daniel Dennett",
+      "weight": -4
+    },
+    {
+      "source": "Edmund Burke",
+      "target": "John Locke",
+      "weight": -1
+    },
+    {
+      "source": "Edmund Burke",
+      "target": "Jean-Jacques Rousseau",
+      "weight": 1
+    },
+    {
+      "source": "Edmund Burke",
+      "target": "Mary Wollstonecraft",
+      "weight": -1
+    },
+    {
+      "source": "Edmund Burke",
+      "target": "Georg Wilhelm Friedrich Hegel",
+      "weight": 1
+    },
+    {
+      "source": "Edmund Burke",
+      "target": "Friedrich Nietzsche",
+      "weight": 1
+    },
+    {
+      "source": "Edmund Burke",
+      "target": "Karl Popper",
+      "weight": 1
+    },
+    {
+      "source": "Edmund Burke",
+      "target": "Jean-Fran\u00e7ois Lyotard",
+      "weight": 1
+    },
+    {
+      "source": "Edmund Burke",
+      "target": "Richard Dawkins",
+      "weight": 2
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "John Locke",
+      "weight": 1
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Johann Gottlieb Fichte",
+      "weight": 1
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Rudolf Carnap",
+      "weight": 1
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Willard Van Orman Quine",
+      "weight": 1
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Thomas Kuhn",
+      "weight": 1
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Paul Feyerabend",
+      "weight": 1
+    },
+    {
+      "source": "Pierre Duhem",
+      "target": "Hilary Putnam",
+      "weight": 1
+    },
+    {
+      "source": "Robert Nozick",
+      "target": "John Locke",
+      "weight": 3
+    },
+    {
+      "source": "Robert Nozick",
+      "target": "John Stuart Mill",
+      "weight": 1
+    },
+    {
+      "source": "Robert Nozick",
+      "target": "Karl Popper",
+      "weight": 1
+    },
+    {
+      "source": "Robert Nozick",
+      "target": "John Langshaw Austin",
+      "weight": 1
+    },
+    {
+      "source": "Robert Nozick",
+      "target": "John Rawls",
+      "weight": -1
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Gottfried Wilhelm Leibniz",
+      "weight": -1
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "John Dewey",
+      "weight": 1
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Pierre Duhem",
+      "weight": 1
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Ludwig Wittgenstein",
+      "weight": 3
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Theodor Adorno",
+      "weight": -2
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Alfred Jules Ayer",
+      "weight": 1
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Willard Van Orman Quine",
+      "weight": 0
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Thomas Kuhn",
+      "weight": 1
+    },
+    {
+      "source": "Rudolf Carnap",
+      "target": "Bernard Williams",
+      "weight": 1
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Gottfried Wilhelm Leibniz",
+      "weight": 1
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Immanuel Kant",
+      "weight": 1
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Edmund Husserl",
+      "weight": -1
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Michel Foucault",
+      "weight": 1
+    },
+    {
+      "source": "Maurice Merleau-Ponty",
+      "target": "Luce Irigaray",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Nagel",
+      "target": "Gottfried Wilhelm Leibniz",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Nagel",
+      "target": "Immanuel Kant",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Nagel",
+      "target": "Richard Hare",
+      "weight": -1
+    },
+    {
+      "source": "Thomas Nagel",
+      "target": "Bernard Williams",
+      "weight": -1
+    },
+    {
+      "source": "Thomas Nagel",
+      "target": "Sandra Harding",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Nagel",
+      "target": "Frank Jackson",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Nagel",
+      "target": "Daniel Dennett",
+      "weight": -1
+    },
+    {
+      "source": "Thomas Nagel",
+      "target": "David Chalmers",
+      "weight": 1
+    },
+    {
+      "source": "S\u00f8ren Kierkegaard",
+      "target": "Francis Hutcheson",
+      "weight": 1
+    },
+    {
+      "source": "S\u00f8ren Kierkegaard",
+      "target": "Immanuel Kant",
+      "weight": 1
+    },
+    {
+      "source": "S\u00f8ren Kierkegaard",
+      "target": "Johann Gottlieb Fichte",
+      "weight": 2
+    },
+    {
+      "source": "S\u00f8ren Kierkegaard",
+      "target": "Georg Wilhelm Friedrich Hegel",
+      "weight": -3
+    },
+    {
+      "source": "S\u00f8ren Kierkegaard",
+      "target": "Friedrich Nietzsche",
+      "weight": -2
+    },
+    {
+      "source": "S\u00f8ren Kierkegaard",
+      "target": "Martin Heidegger",
+      "weight": 1
+    },
+    {
+      "source": "S\u00f8ren Kierkegaard",
+      "target": "Jean-Paul Sartre",
+      "weight": 0
+    },
+    {
+      "source": "S\u00f8ren Kierkegaard",
+      "target": "Albert Camus",
+      "weight": -1
+    },
+    {
+      "source": "S\u00f8ren Kierkegaard",
+      "target": "Elizabeth Anscombe",
+      "weight": -1
+    },
+    {
+      "source": "S\u00f8ren Kierkegaard",
+      "target": "Carol Gilligan",
+      "weight": 2
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Francis Hutcheson",
+      "weight": 1
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Immanuel Kant",
+      "weight": 0
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "John Dewey",
+      "weight": -1
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Ludwig Wittgenstein",
+      "weight": 1
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "John Langshaw Austin",
+      "weight": 1
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "John Mackie",
+      "weight": -1
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Richard Boyd",
+      "weight": -1
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Tim Scanlon",
+      "weight": 1
+    },
+    {
+      "source": "George Edward Moore",
+      "target": "Simon Blackburn",
+      "weight": -1
+    },
+    {
+      "source": "John McDowell",
+      "target": "Francis Hutcheson",
+      "weight": 1
+    },
+    {
+      "source": "John McDowell",
+      "target": "Sigmund Freud",
+      "weight": 1
+    },
+    {
+      "source": "John McDowell",
+      "target": "William Frankena",
+      "weight": -1
+    },
+    {
+      "source": "John McDowell",
+      "target": "Elizabeth Anscombe",
+      "weight": -1
+    },
+    {
+      "source": "John McDowell",
+      "target": "John Mackie",
+      "weight": -1
+    },
+    {
+      "source": "John McDowell",
+      "target": "Bernard Williams",
+      "weight": -1
+    },
+    {
+      "source": "John McDowell",
+      "target": "Tim Scanlon",
+      "weight": 0
+    },
+    {
+      "source": "John McDowell",
+      "target": "Daniel Dennett",
+      "weight": 1
+    },
+    {
+      "source": "John McDowell",
+      "target": "Simon Blackburn",
+      "weight": 1
+    },
+    {
+      "source": "Jacques Lacan",
+      "target": "David Hume",
+      "weight": 1
+    },
+    {
+      "source": "Jacques Lacan",
+      "target": "Jean-Jacques Rousseau",
+      "weight": 1
+    },
+    {
+      "source": "Jacques Lacan",
+      "target": "Immanuel Kant",
+      "weight": 1
+    },
+    {
+      "source": "Jacques Lacan",
+      "target": "Georg Wilhelm Friedrich Hegel",
+      "weight": 3
+    },
+    {
+      "source": "Jacques Lacan",
+      "target": "Arthur Schopenhauer",
+      "weight": 1
+    },
+    {
+      "source": "Jacques Lacan",
+      "target": "Sigmund Freud",
+      "weight": -1
+    },
+    {
+      "source": "Jacques Lacan",
+      "target": "Ferdinand de Saussure",
+      "weight": 5
+    },
+    {
+      "source": "Jacques Lacan",
+      "target": "Martin Heidegger",
+      "weight": 1
+    },
+    {
+      "source": "Jacques Lacan",
+      "target": "Georges Bataille",
+      "weight": 1
+    },
+    {
+      "source": "Jacques Lacan",
+      "target": "Luce Irigaray",
+      "weight": 0
+    },
+    {
+      "source": "Jacques Lacan",
+      "target": "Judith Butler",
+      "weight": 3
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "David Hume",
+      "weight": 1
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Ferdinand de Saussure",
+      "weight": 1
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "George Edward Moore",
+      "weight": 1
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Ludwig Wittgenstein",
+      "weight": 4
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Gilbert Ryle",
+      "weight": 1
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Alfred Jules Ayer",
+      "weight": -3
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Willard Van Orman Quine",
+      "weight": 1
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Sir Peter Strawson",
+      "weight": 2
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Paul Grice",
+      "weight": 1
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Donald Davidson",
+      "weight": 1
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Michel Foucault",
+      "weight": 1
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Hilary Putnam",
+      "weight": 1
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Jacques Derrida",
+      "weight": 2
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "John Searle",
+      "weight": 3
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Robert Nozick",
+      "weight": 1
+    },
+    {
+      "source": "John Langshaw Austin",
+      "target": "Judith Butler",
+      "weight": 2
+    },
+    {
+      "source": "William Frankena",
+      "target": "David Hume",
+      "weight": -1
+    },
+    {
+      "source": "William Frankena",
+      "target": "Sigmund Freud",
+      "weight": 1
+    },
+    {
+      "source": "William Frankena",
+      "target": "Bernard Williams",
+      "weight": -1
+    },
+    {
+      "source": "William Frankena",
+      "target": "John Searle",
+      "weight": 1
+    },
+    {
+      "source": "William Frankena",
+      "target": "John McDowell",
+      "weight": -1
+    },
+    {
+      "source": "Peter Winch",
+      "target": "David Hume",
+      "weight": 1
+    },
+    {
+      "source": "Peter Winch",
+      "target": "Elizabeth Anscombe",
+      "weight": 2
+    },
+    {
+      "source": "Peter Winch",
+      "target": "Donald Davidson",
+      "weight": 0
+    },
+    {
+      "source": "Peter Winch",
+      "target": "Abraham Irving Melden",
+      "weight": 1
+    },
+    {
+      "source": "Peter Winch",
+      "target": "Tim Scanlon",
+      "weight": 1
+    },
+    {
+      "source": "Richard Hare",
+      "target": "David Hume",
+      "weight": 1
+    },
+    {
+      "source": "Richard Hare",
+      "target": "Immanuel Kant",
+      "weight": 2
+    },
+    {
+      "source": "Richard Hare",
+      "target": "Arthur Schopenhauer",
+      "weight": 1
+    },
+    {
+      "source": "Richard Hare",
+      "target": "John Stuart Mill",
+      "weight": 1
+    },
+    {
+      "source": "Richard Hare",
+      "target": "John Dewey",
+      "weight": -1
+    },
+    {
+      "source": "Richard Hare",
+      "target": "Hannah Arendt",
+      "weight": 1
+    },
+    {
+      "source": "Richard Hare",
+      "target": "Alfred Jules Ayer",
+      "weight": 1
+    },
+    {
+      "source": "Richard Hare",
+      "target": "Philippa Foot",
+      "weight": -2
+    },
+    {
+      "source": "Richard Hare",
+      "target": "John Rawls",
+      "weight": 1
+    },
+    {
+      "source": "Richard Hare",
+      "target": "Bernard Williams",
+      "weight": -1
+    },
+    {
+      "source": "Richard Hare",
+      "target": "John Searle",
+      "weight": -1
+    },
+    {
+      "source": "Richard Hare",
+      "target": "Thomas Nagel",
+      "weight": -1
+    },
+    {
+      "source": "Richard Hare",
+      "target": "Tim Scanlon",
+      "weight": 1
+    },
+    {
+      "source": "Jean-Fran\u00e7ois Lyotard",
+      "target": "David Hume",
+      "weight": 1
+    },
+    {
+      "source": "Jean-Fran\u00e7ois Lyotard",
+      "target": "Edmund Burke",
+      "weight": 1
+    },
+    {
+      "source": "Jean-Fran\u00e7ois Lyotard",
+      "target": "Georg Wilhelm Friedrich Hegel",
+      "weight": -1
+    },
+    {
+      "source": "Jean-Fran\u00e7ois Lyotard",
+      "target": "Karl Marx",
+      "weight": -1
+    },
+    {
+      "source": "Jean-Fran\u00e7ois Lyotard",
+      "target": "John Dewey",
+      "weight": -1
+    },
+    {
+      "source": "Jean-Fran\u00e7ois Lyotard",
+      "target": "Ludwig Wittgenstein",
+      "weight": 2
+    },
+    {
+      "source": "Jean-Fran\u00e7ois Lyotard",
+      "target": "Karl Popper",
+      "weight": 1
+    },
+    {
+      "source": "Jean-Fran\u00e7ois Lyotard",
+      "target": "Theodor Adorno",
+      "weight": 3
+    },
+    {
+      "source": "Jean-Fran\u00e7ois Lyotard",
+      "target": "Willard Van Orman Quine",
+      "weight": -1
+    },
+    {
+      "source": "Jean-Fran\u00e7ois Lyotard",
+      "target": "Thomas Kuhn",
+      "weight": 2
+    },
+    {
+      "source": "Jean-Fran\u00e7ois Lyotard",
+      "target": "Paul Feyerabend",
+      "weight": 1
+    },
+    {
+      "source": "Jean-Fran\u00e7ois Lyotard",
+      "target": "Michel Foucault",
+      "weight": 1
+    },
+    {
+      "source": "Jean-Fran\u00e7ois Lyotard",
+      "target": "Bernard Williams",
+      "weight": -1
+    },
+    {
+      "source": "Jean-Fran\u00e7ois Lyotard",
+      "target": "Jean Baudrillard",
+      "weight": 3
+    },
+    {
+      "source": "Jean-Fran\u00e7ois Lyotard",
+      "target": "Richard Rorty",
+      "weight": 1
+    },
+    {
+      "source": "Jean-Fran\u00e7ois Lyotard",
+      "target": "Daniel Dennett",
+      "weight": -1
+    },
+    {
+      "source": "Simon Blackburn",
+      "target": "David Hume",
+      "weight": 1
+    },
+    {
+      "source": "Simon Blackburn",
+      "target": "George Edward Moore",
+      "weight": -1
+    },
+    {
+      "source": "Simon Blackburn",
+      "target": "John McDowell",
+      "weight": 1
+    },
+    {
+      "source": "Judith Butler",
+      "target": "David Hume",
+      "weight": 1
+    },
+    {
+      "source": "Judith Butler",
+      "target": "Ferdinand de Saussure",
+      "weight": 1
+    },
+    {
+      "source": "Judith Butler",
+      "target": "Jacques Lacan",
+      "weight": 3
+    },
+    {
+      "source": "Judith Butler",
+      "target": "Theodor Adorno",
+      "weight": 3
+    },
+    {
+      "source": "Judith Butler",
+      "target": "Simone de Beauvoir",
+      "weight": 0
+    },
+    {
+      "source": "Judith Butler",
+      "target": "John Langshaw Austin",
+      "weight": 2
+    },
+    {
+      "source": "Judith Butler",
+      "target": "Michel Foucault",
+      "weight": 4
+    },
+    {
+      "source": "Judith Butler",
+      "target": "Jacques Derrida",
+      "weight": 1
+    },
+    {
+      "source": "Judith Butler",
+      "target": "Luce Irigaray",
+      "weight": 0
+    },
+    {
+      "source": "Friedrich Nietzsche",
+      "target": "Jean-Jacques Rousseau",
+      "weight": 1
+    },
+    {
+      "source": "Friedrich Nietzsche",
+      "target": "Edmund Burke",
+      "weight": 1
+    },
+    {
+      "source": "Friedrich Nietzsche",
+      "target": "Arthur Schopenhauer",
+      "weight": 1
+    },
+    {
+      "source": "Friedrich Nietzsche",
+      "target": "Charles Darwin",
+      "weight": 1
+    },
+    {
+      "source": "Friedrich Nietzsche",
+      "target": "S\u00f8ren Kierkegaard",
+      "weight": -2
+    },
+    {
+      "source": "Friedrich Nietzsche",
+      "target": "Karl Marx",
+      "weight": 1
+    },
+    {
+      "source": "Friedrich Nietzsche",
+      "target": "Bertrand Russell",
+      "weight": 1
+    },
+    {
+      "source": "Friedrich Nietzsche",
+      "target": "Martin Heidegger",
+      "weight": 1
+    },
+    {
+      "source": "Friedrich Nietzsche",
+      "target": "Georges Bataille",
+      "weight": 2
+    },
+    {
+      "source": "Friedrich Nietzsche",
+      "target": "Theodor Adorno",
+      "weight": 1
+    },
+    {
+      "source": "Friedrich Nietzsche",
+      "target": "Hannah Arendt",
+      "weight": 1
+    },
+    {
+      "source": "Friedrich Nietzsche",
+      "target": "Jean-Paul Sartre",
+      "weight": 4
+    },
+    {
+      "source": "Friedrich Nietzsche",
+      "target": "Albert Camus",
+      "weight": 2
+    },
+    {
+      "source": "Friedrich Nietzsche",
+      "target": "Elizabeth Anscombe",
+      "weight": 2
+    },
+    {
+      "source": "John Dewey",
+      "target": "Jean-Jacques Rousseau",
+      "weight": 1
+    },
+    {
+      "source": "John Dewey",
+      "target": "Charles Darwin",
+      "weight": 1
+    },
+    {
+      "source": "John Dewey",
+      "target": "Charles Sanders Peirce",
+      "weight": 4
+    },
+    {
+      "source": "John Dewey",
+      "target": "George Edward Moore",
+      "weight": -1
+    },
+    {
+      "source": "John Dewey",
+      "target": "Rudolf Carnap",
+      "weight": 1
+    },
+    {
+      "source": "John Dewey",
+      "target": "Karl Popper",
+      "weight": 1
+    },
+    {
+      "source": "John Dewey",
+      "target": "Theodor Adorno",
+      "weight": -2
+    },
+    {
+      "source": "John Dewey",
+      "target": "Richard Hare",
+      "weight": -1
+    },
+    {
+      "source": "John Dewey",
+      "target": "Thomas Kuhn",
+      "weight": 2
+    },
+    {
+      "source": "John Dewey",
+      "target": "Jean-Fran\u00e7ois Lyotard",
+      "weight": -1
+    },
+    {
+      "source": "John Dewey",
+      "target": "Bernard Williams",
+      "weight": 1
+    },
+    {
+      "source": "John Dewey",
+      "target": "Richard Rorty",
+      "weight": 1
+    },
+    {
+      "source": "John Dewey",
+      "target": "Richard Boyd",
+      "weight": 1
+    },
+    {
+      "source": "John Dewey",
+      "target": "Daniel Dennett",
+      "weight": 1
+    },
+    {
+      "source": "William James",
+      "target": "Immanuel Kant",
+      "weight": -1
+    },
+    {
+      "source": "William James",
+      "target": "Charles Sanders Peirce",
+      "weight": 2
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Immanuel Kant",
+      "weight": -1
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Arthur Schopenhauer",
+      "weight": 1
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "S\u00f8ren Kierkegaard",
+      "weight": 1
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Friedrich Nietzsche",
+      "weight": 1
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Sigmund Freud",
+      "weight": 1
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Edmund Husserl",
+      "weight": 1
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Georges Bataille",
+      "weight": 1
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Jacques Lacan",
+      "weight": 1
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Hannah Arendt",
+      "weight": 2
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Jean-Paul Sartre",
+      "weight": 5
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Albert Camus",
+      "weight": 1
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Jean Baudrillard",
+      "weight": 1
+    },
+    {
+      "source": "Martin Heidegger",
+      "target": "Jacques Derrida",
+      "weight": 1
+    },
+    {
+      "source": "Wilfred Sellars",
+      "target": "Immanuel Kant",
+      "weight": 1
+    },
+    {
+      "source": "Wilfred Sellars",
+      "target": "Henri Bergson",
+      "weight": 2
+    },
+    {
+      "source": "Wilfred Sellars",
+      "target": "Gilbert Ryle",
+      "weight": 2
+    },
+    {
+      "source": "Wilfred Sellars",
+      "target": "Alfred Jules Ayer",
+      "weight": -1
+    },
+    {
+      "source": "Wilfred Sellars",
+      "target": "Sir Peter Strawson",
+      "weight": 1
+    },
+    {
+      "source": "Wilfred Sellars",
+      "target": "Elizabeth Anscombe",
+      "weight": 1
+    },
+    {
+      "source": "Wilfred Sellars",
+      "target": "Richard Rorty",
+      "weight": 2
+    },
+    {
+      "source": "Wilfred Sellars",
+      "target": "Jerry Fodor",
+      "weight": 1
+    },
+    {
+      "source": "Wilfred Sellars",
+      "target": "Frank Jackson",
+      "weight": -1
+    },
+    {
+      "source": "Wilfred Sellars",
+      "target": "Daniel Dennett",
+      "weight": 2
+    },
+    {
+      "source": "John Rawls",
+      "target": "Immanuel Kant",
+      "weight": 2
+    },
+    {
+      "source": "John Rawls",
+      "target": "Jeremy Bentham",
+      "weight": 0
+    },
+    {
+      "source": "John Rawls",
+      "target": "John Stuart Mill",
+      "weight": -1
+    },
+    {
+      "source": "John Rawls",
+      "target": "Hannah Arendt",
+      "weight": 1
+    },
+    {
+      "source": "John Rawls",
+      "target": "Alfred Jules Ayer",
+      "weight": -1
+    },
+    {
+      "source": "John Rawls",
+      "target": "Willard Van Orman Quine",
+      "weight": 1
+    },
+    {
+      "source": "John Rawls",
+      "target": "Richard Hare",
+      "weight": 1
+    },
+    {
+      "source": "John Rawls",
+      "target": "Bernard Williams",
+      "weight": 1
+    },
+    {
+      "source": "John Rawls",
+      "target": "Robert Nozick",
+      "weight": -1
+    },
+    {
+      "source": "John Rawls",
+      "target": "Tim Scanlon",
+      "weight": 0
+    },
+    {
+      "source": "Harry Frankfurt",
+      "target": "Immanuel Kant",
+      "weight": -1
+    },
+    {
+      "source": "Carol Gilligan",
+      "target": "Immanuel Kant",
+      "weight": -1
+    },
+    {
+      "source": "Carol Gilligan",
+      "target": "S\u00f8ren Kierkegaard",
+      "weight": 2
+    },
+    {
+      "source": "Elizabeth Anscombe",
+      "target": "Jeremy Bentham",
+      "weight": -1
+    },
+    {
+      "source": "Elizabeth Anscombe",
+      "target": "S\u00f8ren Kierkegaard",
+      "weight": -1
+    },
+    {
+      "source": "Elizabeth Anscombe",
+      "target": "Friedrich Nietzsche",
+      "weight": 2
+    },
+    {
+      "source": "Elizabeth Anscombe",
+      "target": "Jean-Paul Sartre",
+      "weight": 1
+    },
+    {
+      "source": "Elizabeth Anscombe",
+      "target": "Wilfred Sellars",
+      "weight": 1
+    },
+    {
+      "source": "Elizabeth Anscombe",
+      "target": "Peter Winch",
+      "weight": 2
+    },
+    {
+      "source": "Elizabeth Anscombe",
+      "target": "Abraham Irving Melden",
+      "weight": 1
+    },
+    {
+      "source": "Elizabeth Anscombe",
+      "target": "David Lewis",
+      "weight": 1
+    },
+    {
+      "source": "Elizabeth Anscombe",
+      "target": "John McDowell",
+      "weight": -1
+    },
+    {
+      "source": "Elizabeth Anscombe",
+      "target": "Tim Scanlon",
+      "weight": 1
+    },
+    {
+      "source": "Albert Camus",
+      "target": "Arthur Schopenhauer",
+      "weight": 1
+    },
+    {
+      "source": "Albert Camus",
+      "target": "S\u00f8ren Kierkegaard",
+      "weight": -1
+    },
+    {
+      "source": "Albert Camus",
+      "target": "Friedrich Nietzsche",
+      "weight": 2
+    },
+    {
+      "source": "Albert Camus",
+      "target": "Martin Heidegger",
+      "weight": 1
+    },
+    {
+      "source": "Albert Camus",
+      "target": "Jean-Paul Sartre",
+      "weight": 0
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Ludwig Feuerbach",
+      "weight": 1
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "S\u00f8ren Kierkegaard",
+      "weight": 0
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Friedrich Nietzsche",
+      "weight": 4
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Edmund Husserl",
+      "weight": 3
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Martin Heidegger",
+      "weight": 5
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Simone de Beauvoir",
+      "weight": 3
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Albert Camus",
+      "weight": 0
+    },
+    {
+      "source": "Jean-Paul Sartre",
+      "target": "Elizabeth Anscombe",
+      "weight": 1
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "John Stuart Mill",
+      "weight": 1
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Pierre Duhem",
+      "weight": 1
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Thomas Kuhn",
+      "weight": 1
+    },
+    {
+      "source": "Paul Feyerabend",
+      "target": "Jean-Fran\u00e7ois Lyotard",
+      "weight": 1
+    },
+    {
+      "source": "Richard Boyd",
+      "target": "John Stuart Mill",
+      "weight": 1
+    },
+    {
+      "source": "Richard Boyd",
+      "target": "John Dewey",
+      "weight": 1
+    },
+    {
+      "source": "Richard Boyd",
+      "target": "George Edward Moore",
+      "weight": -1
+    },
+    {
+      "source": "Richard Boyd",
+      "target": "John Mackie",
+      "weight": -1
+    },
+    {
+      "source": "Richard Boyd",
+      "target": "Hilary Putnam",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Charles Darwin",
+      "weight": 2
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Charles Sanders Peirce",
+      "weight": -1
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "John Dewey",
+      "weight": 2
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Pierre Duhem",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Ludwig Wittgenstein",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Rudolf Carnap",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Carl Hempel",
+      "weight": -2
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Karl Popper",
+      "weight": -2
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Theodor Adorno",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Paul Feyerabend",
+      "weight": 1
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Jean-Fran\u00e7ois Lyotard",
+      "weight": 2
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Bernard Williams",
+      "weight": -1
+    },
+    {
+      "source": "Thomas Kuhn",
+      "target": "Luce Irigaray",
+      "weight": 1
+    },
+    {
+      "source": "Jerry Fodor",
+      "target": "Charles Darwin",
+      "weight": -2
+    },
+    {
+      "source": "Jerry Fodor",
+      "target": "Sigmund Freud",
+      "weight": -1
+    },
+    {
+      "source": "Jerry Fodor",
+      "target": "Wilfred Sellars",
+      "weight": 1
+    },
+    {
+      "source": "Jerry Fodor",
+      "target": "Hilary Putnam",
+      "weight": 1
+    },
+    {
+      "source": "Jerry Fodor",
+      "target": "John Searle",
+      "weight": 1
+    },
+    {
+      "source": "Jerry Fodor",
+      "target": "David Lewis",
+      "weight": 1
+    },
+    {
+      "source": "Jerry Fodor",
+      "target": "Daniel Dennett",
+      "weight": -1
+    },
+    {
+      "source": "Michael Dummett",
+      "target": "Charles Sanders Peirce",
+      "weight": 1
+    },
+    {
+      "source": "Michael Dummett",
+      "target": "Ferdinand de Saussure",
+      "weight": 0
+    },
+    {
+      "source": "Michael Dummett",
+      "target": "Ludwig Wittgenstein",
+      "weight": 2
+    },
+    {
+      "source": "Michael Dummett",
+      "target": "Willard Van Orman Quine",
+      "weight": -2
+    },
+    {
+      "source": "Michael Dummett",
+      "target": "Donald Davidson",
+      "weight": 1
+    },
+    {
+      "source": "Michael Dummett",
+      "target": "Jacques Derrida",
+      "weight": -1
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Sigmund Freud",
+      "weight": -4
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Ludwig Wittgenstein",
+      "weight": 1
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Georges Bataille",
+      "weight": 1
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Theodor Adorno",
+      "weight": 6
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Simone de Beauvoir",
+      "weight": 2
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Maurice Merleau-Ponty",
+      "weight": 1
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "John Langshaw Austin",
+      "weight": 1
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Jean-Fran\u00e7ois Lyotard",
+      "weight": 1
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Luce Irigaray",
+      "weight": 3
+    },
+    {
+      "source": "Michel Foucault",
+      "target": "Judith Butler",
+      "weight": 4
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "Ferdinand de Saussure",
+      "weight": -1
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "Ludwig Wittgenstein",
+      "weight": -1
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "Martin Heidegger",
+      "weight": 1
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "John Langshaw Austin",
+      "weight": 2
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "Paul Grice",
+      "weight": 1
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "Michael Dummett",
+      "weight": -1
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "Luce Irigaray",
+      "weight": 1
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "John Searle",
+      "weight": -1
+    },
+    {
+      "source": "Jacques Derrida",
+      "target": "Judith Butler",
+      "weight": 1
+    },
+    {
+      "source": "Tim Scanlon",
+      "target": "George Edward Moore",
+      "weight": 1
+    },
+    {
+      "source": "Tim Scanlon",
+      "target": "Elizabeth Anscombe",
+      "weight": 1
+    },
+    {
+      "source": "Tim Scanlon",
+      "target": "Peter Winch",
+      "weight": 1
+    },
+    {
+      "source": "Tim Scanlon",
+      "target": "John Mackie",
+      "weight": -2
+    },
+    {
+      "source": "Tim Scanlon",
+      "target": "Richard Hare",
+      "weight": 1
+    },
+    {
+      "source": "Tim Scanlon",
+      "target": "John Rawls",
+      "weight": 0
+    },
+    {
+      "source": "Tim Scanlon",
+      "target": "John McDowell",
+      "weight": 0
+    },
+    {
+      "source": "Frank Ramsey",
+      "target": "Carl Hempel",
+      "weight": 1
+    },
+    {
+      "source": "Sandra Harding",
+      "target": "Hannah Arendt",
+      "weight": -1
+    },
+    {
+      "source": "Sandra Harding",
+      "target": "Luce Irigaray",
+      "weight": 1
+    },
+    {
+      "source": "Sandra Harding",
+      "target": "Thomas Nagel",
+      "weight": 1
+    },
+    {
+      "source": "Paul Grice",
+      "target": "John Langshaw Austin",
+      "weight": 1
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Sir Peter Strawson",
+      "weight": 1
+    },
+    {
+      "source": "Paul Grice",
+      "target": "Jacques Derrida",
+      "weight": 1
+    },
+    {
+      "source": "Paul Grice",
+      "target": "John Searle",
+      "weight": 0
+    },
+    {
+      "source": "Frank Jackson",
+      "target": "Wilfred Sellars",
+      "weight": -1
+    },
+    {
+      "source": "Frank Jackson",
+      "target": "Thomas Nagel",
+      "weight": 1
+    },
+    {
+      "source": "Frank Jackson",
+      "target": "David Lewis",
+      "weight": -1
+    },
+    {
+      "source": "Frank Jackson",
+      "target": "Daniel Dennett",
+      "weight": -1
+    },
+    {
+      "source": "Frank Jackson",
+      "target": "David Chalmers",
+      "weight": 2
+    },
+    {
+      "source": "Philippa Foot",
+      "target": "Richard Hare",
+      "weight": -2
+    }
+  ]
+}
