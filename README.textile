@@ -1,7 +1,3 @@
-h1. Demo for How to build an Interactive Network Visualization
-
-h2. Running
-
 You can start up a local webserver by using python's simple server:
 
 <pre>
